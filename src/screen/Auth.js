@@ -30,18 +30,26 @@ export default class Auth extends Component {
 
   componentWillMount() {
     // Initialize Firebase
-    var firebaseConfig = { //key here
+    var firebaseConfig = {
+      apiKey: "AIzaSyAkPUsePZZi8P9wsVvm4LP8jAEnMr97yzc",
+      authDomain: "topfy-19758.firebaseapp.com",
+      databaseURL: "https://topfy-19758.firebaseio.com",
+      projectId: "topfy-19758",
+      storageBucket: "",
+      messagingSenderId: "106866858182",
+      appId: "1:106866858182:web:e870836a7ff4242b415fc7"
     };
     // Initialize Firebase
     firebase.initializeApp(firebaseConfig);
 
-    console.log('begin');
-    users = require('../../push_firebase/data.json')
-    //console.log(users);
-    users.forEach(user => {
-      firebase.auth().createUserWithEmailAndPassword(user + '@gmail.com', 'macdinh')
-    })
-    console.log('done');
+
+    // console.log('begin');
+    // users = require('../../push_firebase/data.json')
+    // //console.log(users);
+    // users.forEach(user => {
+    //   firebase.auth().createUserWithEmailAndPassword(user + '@gmail.com', 'macdinh')
+    // })
+    // console.log('done');
   }
 
   login = async () => {
@@ -50,7 +58,7 @@ export default class Auth extends Component {
     user = await firebase
       .auth()
       .signInWithEmailAndPassword(email, pass)
-      .catch(function(error) {
+      .catch((error) => {
         // Handle Errors here.
         var errorCode = error.code;
         //var errorMessage = error.message;
@@ -59,7 +67,7 @@ export default class Auth extends Component {
           errorCode === "auth/invalid-email" ||
           errorCode === "auth/user-not-found"
         ) {
-          alert("Bạn nhập sai email rùi!");
+          alert("Bạn nhập email không đúng");
         } else if (errorCode === "auth/wrong-password") {
           alert("Bạn nhập sai password!");
         }
@@ -155,6 +163,7 @@ const styles = StyleSheet.create({
     width: "100%",
     height: 40,
     borderWidth: 1,
-    paddingHorizontal: 10
+    paddingHorizontal: 10,
+    justifyContent: 'center'
   }
 });
