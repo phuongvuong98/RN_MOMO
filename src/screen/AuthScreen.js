@@ -49,7 +49,10 @@ export default class Auth extends Component {
     // users.forEach(user => {
     //   firebase.auth().createUserWithEmailAndPassword(user + '@gmail.com', 'macdinh')
     // })
-    // console.log('done');
+    // console.log('done');\
+
+    //lazy login
+    this.setState({email: '5246190437244883829@gmail.com', pass: 'macdinh'});
   }
 
   login = async () => {
@@ -76,7 +79,7 @@ export default class Auth extends Component {
       });
     this.setState({ loading: false });
       if(user){
-        this.props.navigation.navigate('Chat')
+        this.props.navigation.navigate('Home')
       }
   };
 
@@ -85,7 +88,7 @@ export default class Auth extends Component {
       <View
         style={{
           flex: 1,
-          marginTop: Constants.statusBarHeight,
+          paddingTop: Constants.statusBarHeight,
           alignItems: "center",
           padding: 5
         }}
@@ -105,6 +108,7 @@ export default class Auth extends Component {
         <View style={styles.sections}>
           <TextInput
             style={styles.input}
+            value={this.state.email}
             placeholder="Nhập email tài khoản"
             onChangeText={email => this.setState({ email })}
           />
@@ -112,6 +116,7 @@ export default class Auth extends Component {
         <View style={styles.sections}>
           <TextInput
             style={styles.input}
+            value={this.state.pass}
             onChangeText={text => this.setState({ name: text })}
             placeholder="Nhập mật khuẩn"
             secureTextEntry

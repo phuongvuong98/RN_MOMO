@@ -18,17 +18,6 @@ export default class Pass extends Component {
     };
   }
 
-  static navigationOptions = {
-    title: "Lấy lại mật khuẩu",
-    headerStyle: {
-      backgroundColor: "#AE2070"
-    },
-    headerTintColor: "#fff",
-    headerTitleStyle: {
-      fontWeight: "bold"
-    }
-  };
-
   sendMailReset = () => {
     var auth = firebase.auth();
     this.setState({ loading: true });
