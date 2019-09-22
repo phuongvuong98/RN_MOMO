@@ -12,6 +12,7 @@ import {
 import Constants from "expo-constants";
 //import Item from "../components/Item";
 
+
 export default class ExploreScreen extends Component {
   static navigationOptions = {
     header: null
@@ -29,32 +30,32 @@ export default class ExploreScreen extends Component {
   async componentDidMount() {
     //fetch api here
     //await fetch()
-    console.log('getting recommend');
-    var res = await fetch("https://nodejs-momo.herokuapp.com/recommand", {
-      method: "POST",
-      headers: {
-        "Content-Type": "application/json"
-      },
-      body: JSON.stringify({
-        email: '5246190437244883829',
-        password: 'macdinh'
-      })
-    })
-        if (res.status === 422) {
-          //throw new Error("Validation failed.");
-          return Error("Validation failed.");
-        }
-        if (res.status !== 200 && res.status !== 201) {
-          console.log("Error!");
-          //throw new Error("Could not authenticate you!");
-          return Error("Could not authenticate you!");
-        }
-        console.log(res);
+    // console.log('getting recommend');
+    // var res = await fetch("https://nodejs-momo.herokuapp.com/recommand", {
+    //   method: "POST",
+    //   headers: {
+    //     "Content-Type": "application/json"
+    //   },
+    //   body: JSON.stringify({
+    //     email: '5246190437244883829',
+    //     password: 'macdinh'
+    //   })
+    // })
+    //     if (res.status === 422) {
+    //       //throw new Error("Validation failed.");
+    //       return Error("Validation failed.");
+    //     }
+    //     if (res.status !== 200 && res.status !== 201) {
+    //       console.log("Error!");
+    //       //throw new Error("Could not authenticate you!");
+    //       return Error("Could not authenticate you!");
+    //     }
+    //     console.log(res);
         
-        res_json = await res.json();
+    //     res_json = await res.json();
       
 
-    console.log(res_json);
+    // console.log(res_json);
     
 
     //Fake data

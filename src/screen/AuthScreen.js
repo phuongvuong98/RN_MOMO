@@ -11,22 +11,25 @@ import {
 } from "react-native";
 import Constants from "expo-constants";
 import firebase from "firebase";
-import { node } from "prop-types";
+
+import { bindActionCreators } from "redux";
+import { connect } from "react-redux";
+import {
+  ChangeEmail,
+  ChangePassword,
+  SetLoadingFalse,
+  SetLoadingTrue
+} from "../Actions";
 
 const PIC = Dimensions.get("window").width / 2;
 
-export default class Auth extends Component {
+class Auth extends Component {
   static navigationOptions = {
     header: null
   };
 
   constructor(props) {
     super(props);
-    this.state = {
-      email: "",
-      pass: "",
-      loading: false
-    };
   }
 
   componentWillMount() {
@@ -43,7 +46,6 @@ export default class Auth extends Component {
     // Initialize Firebase
     firebase.initializeApp(firebaseConfig);
 
-
     // console.log('begin');
     // users = require('../../push_firebase/data.json')
     // //console.log(users);
@@ -53,16 +55,17 @@ export default class Auth extends Component {
     // console.log('done');\
 
     //lazy login
-    this.setState({email: '5246190437244883829@gmail.com', pass: 'macdinh'});
+    //this.setState({email: '5246190437244883829@gmail.com', pass: 'macdinh'});
+    this.props.ChangeEmail("5246190437244883829@gmail.com");
+    this.props.ChangePassword("macdinh");
   }
 
   login = async () => {
-    const { email, pass } = this.state;
-    this.setState({ loading: true });
+    this.props.SetLoadingTrue();
     user = await firebase
       .auth()
-      .signInWithEmailAndPassword(email, pass)
-      .catch((error) => {
+      .signInWithEmailAndPassword(this.props.email, this.props.password)
+      .catch(error => {
         // Handle Errors here.
         var errorCode = error.code;
         //var errorMessage = error.message;
@@ -78,14 +81,24 @@ export default class Auth extends Component {
         //alert(errorCode);
         // ...
       });
-    this.setState({ loading: false });
-      if(user){
-        
-        this.props.navigation.navigate('Home',  {email: this.state.email, pass: this.state.pass, status: 1})
-      }
+    this.props.SetLoadingFalse();
+    if (user) {
+      this.props.navigation.navigate("Home", {
+        email: email,
+        pass: password,
+        status: 1
+      });
+    }
   };
 
   render() {
+    const {
+      password,
+      email,
+      loading,
+      ChangeEmail,
+      ChangePassword
+    } = this.props;
     return (
       <View
         style={{
@@ -110,24 +123,23 @@ export default class Auth extends Component {
         <View style={styles.sections}>
           <TextInput
             style={styles.input}
-            value={this.state.email}
+            value={email}
             placeholder="Nhập email tài khoản"
-            onChangeText={email => this.setState({ email })}
+            onChangeText={input => ChangeEmail(input)}
           />
         </View>
         <View style={styles.sections}>
           <TextInput
             style={styles.input}
-            value={this.state.pass}
-            onChangeText={text => this.setState({ name: text })}
+            value={password}
+            onChangeText={input => ChangePassword(input)}
             placeholder="Nhập mật khuẩn"
             secureTextEntry
-            onChangeText={pass => this.setState({ pass })}
           />
         </View>
         <View style={styles.sections}>
-          {this.state.loading ? (
-            <ActivityIndicator/>
+          {loading ? (
+            <ActivityIndicator />
           ) : (
             <TouchableOpacity
               style={{
@@ -148,10 +160,11 @@ export default class Auth extends Component {
             </TouchableOpacity>
           )}
         </View>
-        <TouchableOpacity style={[styles.sections, {paddingTop: 10}]}
-          onPress={() => this.props.navigation.navigate('Pass')}
+        <TouchableOpacity
+          style={[styles.sections, { paddingTop: 10 }]}
+          onPress={() => this.props.navigation.navigate("Pass")}
         >
-              <Text style={{fontStyle: 'italic'}}>Quên mật khuẩn?</Text>
+          <Text style={{ fontStyle: "italic" }}>Quên mật khuẩn?</Text>
         </TouchableOpacity>
       </View>
     );
@@ -163,14 +176,30 @@ const styles = StyleSheet.create({
     paddingTop: 20,
     width: "100%",
     paddingHorizontal: 15,
-    justifyContent: 'center', 
-    alignItems: 'center'
+    justifyContent: "center",
+    alignItems: "center"
   },
   input: {
     width: "100%",
     height: 40,
     borderWidth: 1,
     paddingHorizontal: 10,
-    justifyContent: 'center'
+    justifyContent: "center"
   }
 });
+
+mapStateToProps = state => {
+  return ({ password, email, loading } = state);
+};
+
+mapDispatchToProps = dispatch => {
+  return bindActionCreators(
+    { ChangeEmail, ChangePassword, SetLoadingFalse, SetLoadingTrue },
+    dispatch
+  );
+};
+
+export default connect(
+  mapStateToProps,
+  mapDispatchToProps
+)(Auth);
