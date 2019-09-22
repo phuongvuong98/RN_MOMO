@@ -2,15 +2,18 @@ import React from "react";
 import { View, Text, Image, StyleSheet, TouchableOpacity } from "react-native";
 import ExploreScreen from "../screen/ExploreScreen";
 import FavoriteScreen from "../screen/FavoriteScreen";
+import InfoNavi from '../navigation/InfoNavi';
 import { createBottomTabNavigator } from "react-navigation-tabs";
+
+import { FontAwesome } from "@expo/vector-icons";
 
 export default createBottomTabNavigator(
   {
     Explore: {
-      screen: ExploreScreen,
+      screen: InfoNavi,
       navigationOptions: {
         tabBarLabel: null,
-        tabBarIcon: <Image source={require("../../assets/home/exp.png")} />,
+        tabBarIcon: ({tintColor}) => <FontAwesome name="wpexplorer" color={tintColor} size={32}/>,
         tabBarButtonComponent: TouchableOpacity
       }
     },
@@ -18,20 +21,23 @@ export default createBottomTabNavigator(
       screen: FavoriteScreen,
       navigationOptions: {
         tabBarLabel: null,
-        tabBarIcon: <Image source={require("../../assets/home/fav.png")} />,
+        tabBarIcon: ({tintColor}) => <FontAwesome name="heart-o" color={tintColor} size={32}/>,
         tabBarButtonComponent: TouchableOpacity
       }
     }
   },
   {
     tabBarOptions: {
-        //activeBackgroundColor: "red",
-        //inactiveBackgroundColor: "blue",
+      activeTintColor: "#AE2070",
+      inactiveTintColor: "grey",
+      //inactiveBackgroundColor: "blue",
       style: {
-        backgroundColor: "#AE2070",
-        borderTopWidth:1,
-            borderTopColor:'red'
+        backgroundColor: "#fff",
+        borderTopWidth: 1,
+        borderTopColor: "pink"
       },
+      tabBarSelectedItemStyle: {
+    },
       showLabel: false
     }
   }

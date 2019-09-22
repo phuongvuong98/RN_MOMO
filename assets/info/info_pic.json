@@ -1,0 +1,2303 @@
+({
+  "store": "ILOVEKEM",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/ilovekem-chi-nhanh-tran-hung-dao-2ab0c342635975399181492515.jpg"
+},
+{
+  "store": "BÁNH CANH GHẸ TƯƠI",
+  "link": "http://cdn05.diadiemanuong.com/photo/320x/00054/hai_san_tuoi_song__banh_canh_ghe_vi_tai_6bb61f52635418828648949303.jpg"
+},
+{
+  "store": "GONG CHA",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/gong-cha-phan-van-tri-8a0438b6636997582070284584.jpg"
+},
+{ "store": "BUBBLE BEAR", "link": "https://localhost:3000/logo" },
+{
+  "store": "PIZZA HUT",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/pizza-hut-d2-99b7f9f1636673293771985973.jpg"
+},
+{
+  "store": "DOMINO",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/domino-pizza-duong-so-1-f7b8d1de636491919035691469.jpg"
+},
+{ "store": "LA GARE COFFEE", "link": "https://localhost:3000/logo" },
+{ "store": "L A G A R E", "link": "https://localhost:3000/logo" },
+{ "store": "THE KING COFFE", "link": "https://localhost:3000/logo" },
+{ "store": "THE KING COFFEE", "link": "https://localhost:3000/logo" },
+{ "store": "CAFE BABA", "link": "https://localhost:3000/logo" },
+{ "store": "CAFE BÙI 1", "link": "https://localhost:3000/logo" },
+{
+  "store": "EFFOC COFFEE",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/diadiemanuong-com-26894003635772394991427914.jpg"
+},
+{
+  "store": "ALIFOODCORNER",
+  "link": "http://cdn05.diadiemanuong.com/photo/320x/00005/alifoodcorner__chung_cu_ngo_gia_tu_1769be6d635415341280876692.jpg"
+},
+{ "store": "BILUXURY", "link": "https://localhost:3000/logo" },
+{ "store": "ADAMSTORE", "link": "https://localhost:3000/logo" },
+{ "store": "A DAM STORE", "link": "https://localhost:3000/logo" },
+{ "store": "THE ALLEY", "link": "https://localhost:3000/logo" },
+{
+  "store": "DON CHICKEN",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/don-chicken-su-van-hanh-f1978f4f636574167051585794.jpg"
+},
+{
+  "store": "BÁNH CUỐN TÂY SƠN",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/banh-cuon-tay-son-truong-cong-dinh-aaee8a5c636931088251825958.jpg"
+},
+{ "store": "VUA TÀO PHỚ", "link": "https://localhost:3000/logo" },
+{
+  "store": "KFC",
+  "link": "http://cdn01.diadiemanuong.com//ddau/320x/xoi-sau-rieng-banh-phong-tp-hcm-ab390158636100628130467189.jpg"
+},
+{ "store": "COOP FOOD", "link": "https://localhost:3000/logo" },
+{ "store": "MY LIFE COFFEE", "link": "https://localhost:3000/logo" },
+{
+  "store": "CÔNG TY TNHH THƯƠNG MẠI VÀ DỊCH VỤ CUỘC SỐNG CỦA TÔI",
+  "link": "https://localhost:3000/logo"
+},
+{ "store": "MLC BẾN BẠCH ĐẰNG", "link": "https://localhost:3000/logo" },
+{ "store": "MLC TRƯƠNG ĐỊNH", "link": "https://localhost:3000/logo" },
+{ "store": "MLC TRẦN HƯNG ĐẠO", "link": "https://localhost:3000/logo" },
+{ "store": "MLC LÊ DUẨN", "link": "https://localhost:3000/logo" },
+{ "store": "CƠM NIÊU THIÊN LÝ", "link": "https://localhost:3000/logo" },
+{ "store": "ROYAL RICE & BUNBAR", "link": "https://localhost:3000/logo" },
+{
+  "store": "TRUNG NGUYÊN",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/cafe-trung-nguyen-tran-van-dang-quan-3-516782fd636339024971488141.jpg"
+},
+{
+  "store": "PHỞ VIỆT NAM",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/pho-viet-nam-dbe57b68636801198695836288.jpg"
+},
+{
+  "store": "GÀ ÁC VĨNH QUÝ",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/ga-ac-vinh-quy-nguyen-tri-phuong-95f12ef5635955366424538363.jpg"
+},
+{ "store": "HOT AND COLD", "link": "https://localhost:3000/logo" },
+{
+  "store": "NEM OANH VY",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/nem-nuong-nha-trang-oanh-vy-150664ca636455665960730818.jpg"
+},
+{ "store": "TỔNG HỢP VIỆT", "link": "https://localhost:3000/logo" },
+{ "store": "ATM STREET COFFEE", "link": "https://localhost:3000/logo" },
+{
+  "store": "LAVIDA COFFEE",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/coffee-and-tea-lavida-hung-phu-6fdc87a9637000815566134868.jpg"
+},
+{
+  "store": "BAMBOO DIMSUM AEON MALL BÌNH DƯƠNG",
+  "link": "https://localhost:3000/logo"
+},
+{
+  "store": "LOTTE",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/yu-tang-2df1bd5c637030988596647862.jpg"
+},
+{
+  "store": "BAMBOO DIMSUM MEGA MALL THẢO ĐIỀN",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/bamboo-dimsum-mega-mall-9a13a501636619946910259600.jpg"
+},
+{
+  "store": "BAMBOO DIMSUM AEON MALL LONG BIÊN",
+  "link": "https://localhost:3000/logo"
+},
+{
+  "store": "BAMBOO DIMSUM CRESCENT MALL QUẬN 7",
+  "link": "https://localhost:3000/logo"
+},
+{
+  "store": "CÔNG TY CỔ PHẦN THƯƠNG MẠI HI-FOODS",
+  "link": "https://localhost:3000/logo"
+},
+{
+  "store": "BAMBOO DIMSUM AEON BÌNH TÂN",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/bamboo-dimsum-aeon-binh-tan-11ef295a636619953356177560.jpg"
+},
+{
+  "store": "BAMBOO DIMSUM - BITEXCO",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/bamboo-dimsum-bitexco-9afae44f636619917502326064.jpg"
+},
+{
+  "store": "BAMBOO DIMSUM - PARKSON HÙNG VƯƠNG",
+  "link": "https://localhost:3000/logo"
+},
+{
+  "store": "BAMBOO DIMSUM DIAMOND PLAZA",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/bamboo-dimsum-diamond-plaza-e54827dd636619989064846256.jpg"
+},
+{
+  "store": "BAMBOO DIMSUM AEON MALL TÂN PHÚ",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/bamboo-dimsum-aeon-mall-tan-phu-6a4847cf636619978750063897.jpg"
+},
+{
+  "store": "COCA",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/coca-suki-restaurant-giao-lau-tan-noi-db7407a3637020886070009443.jpg"
+},
+{ "store": "COCA CT", "link": "https://localhost:3000/logo" },
+{ "store": "COCA  VINCOM B", "link": "https://localhost:3000/logo" },
+{
+  "store": "COCA HÙNG VƯƠNG",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/diadiemanuong-com-coca-suki-lau-va-mon-thai-parkson-hung-vuong65203b71635627164818779088.jpg"
+},
+{
+  "store": "SHARETEA",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/tra-sua-sharetea-nguyen-dinh-chieu-c0f4aa83636624941849797527.jpg"
+},
+{
+  "store": "HOTPOT",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/boc-boc-hotpot-a6435e07637025856302076210.jpg"
+},
+{
+  "store": "KING BUFFET",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/king-bbq-buffet-nguyen-van-qua-5a962aa4636642582732870357.jpg"
+},
+{
+  "store": "CÔNG TY CP ĐT TM QT MẶT TRỜI ĐỎ (TP HÀ NỘI)",
+  "link": "https://localhost:3000/logo"
+},
+{
+  "store": "SUSHI KEI",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/sushi-kei-landmark-81-67b02963636707170096368052.jpg"
+},
+{
+  "store": "ICOOL KARAOKE",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/karaoke-icool-120-thanh-thai-31b51aeb636729906169176415.jpg"
+},
+{ "store": "PIZZA CHẢO", "link": "https://localhost:3000/logo" },
+{
+  "store": "CỬA HÀNG ĂN UỐNG SỐ 12",
+  "link": "http://cdn05.diadiemanuong.com/photo/320x/00040/cua_hang_an_uong_so_12_6618c070635417036935043249.jpg"
+},
+{ "store": "CỦA HÀNG ĂN UỐNG SỐ 12", "link": "https://localhost:3000/logo" },
+{
+  "store": "CHEWY",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/chewy-junior-phan-xich-long-f304a444636806497694367735.jpg"
+},
+{
+  "store": "MÌ QUẢNG 3 ANH EM",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/mi-quang-3-anh-em-f157d48f636965313764829644.jpg"
+},
+{ "store": "NHÀ HÀNG ELEVEN", "link": "https://localhost:3000/logo" },
+{
+  "store": "LOTUS CAFE",
+  "link": "http://cdn05.diadiemanuong.com/photo/320x/00056/lotus_cafe_ba4a5d13635418838207269452.jpg"
+},
+{ "store": "LIBB HOUSE COFFEE & TEA", "link": "https://localhost:3000/logo" },
+{ "store": "SAWADEE QUẬN 10", "link": "https://localhost:3000/logo" },
+{
+  "store": "CHI NHÁNH QUẬN 10 - CÔNG TY TNHH THƯƠNG MẠI XUẤT NHẬP KHẨU PHÚ QUỐC",
+  "link": "https://localhost:3000/logo"
+},
+{ "store": "1ST GARDEN", "link": "https://localhost:3000/logo" },
+{
+  "store": "KHOAI LANG LẮC",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/mrbin-ga-ran-khoai-lang-lac-4b790da5636888705067246690.jpg"
+},
+{ "store": "CV GAMING & COFFEE", "link": "https://localhost:3000/logo" },
+{ "store": "BÚN CÁ 164 Ô CHỢ DỪA", "link": "https://localhost:3000/logo" },
+{ "store": "BUNCA1641", "link": "https://localhost:3000/logo" },
+{ "store": "CỬA HÀNG TÚ LINH", "link": "https://localhost:3000/logo" },
+{ "store": "KOI", "link": "https://localhost:3000/logo" },
+{ "store": "B59 COFFEE", "link": "https://localhost:3000/logo" },
+{
+  "store": "CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ LARINA",
+  "link": "https://localhost:3000/logo"
+},
+{ "store": "HÓC MÔN", "link": "https://localhost:3000/logo" },
+{
+  "store": "LŨY BÁN BÍCH",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/pho-de-hu-tieu-hung-phuc-9211d270637019049078630092.jpg"
+},
+{ "store": "NHÀ THUỐC VIỆT DŨNG", "link": "https://localhost:3000/logo" },
+{ "store": "TRỐNG CƠM –ESTELLA PLACE", "link": "https://localhost:3000/logo" },
+{
+  "store": "HOÀNG YẾN",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/hoang-yen-hotpot-van-hanh-mall-8749dcb5636952476553223696.jpg"
+},
+{ "store": "TRỐNG CƠM – PEARL PLAZA", "link": "https://localhost:3000/logo" },
+{
+  "store": "TRỐNG CƠM - AEON MALL TÂN PHÚ",
+  "link": "https://localhost:3000/logo"
+},
+{ "store": "TRỐNG CƠM – THE VISTA", "link": "https://localhost:3000/logo" },
+{ "store": "TRỐNG CƠM - SC VIVOCITY", "link": "https://localhost:3000/logo" },
+{ "store": "TRỐNG CƠM - CRESENT MALL", "link": "https://localhost:3000/logo" },
+{ "store": "HUONGNGUYENCOFFEE1", "link": "https://localhost:3000/logo" },
+{
+  "store": "THẬP CẨM CANH MA LA - TANG 1",
+  "link": "https://localhost:3000/logo"
+},
+{
+  "store": "THẬP CẨM CANH MA LA - TANG",
+  "link": "https://localhost:3000/logo"
+},
+{ "store": "NEWBORNS", "link": "https://localhost:3000/logo" },
+{ "store": "ỐC ĂN VẶT THÀNH CÔNG", "link": "https://localhost:3000/logo" },
+{ "store": "F5FRUITSHOP", "link": "https://localhost:3000/logo" },
+{ "store": "ROUTINE", "link": "https://localhost:3000/logo" },
+{
+  "store": "TRÀ SỮA CHAMICHI TRƯỜNG SA",
+  "link": "https://localhost:3000/logo"
+},
+{ "store": "TRÀ SỮA CHA – MI - CHI", "link": "https://localhost:3000/logo" },
+{ "store": "AL FRESCO'S RESTAURANT", "link": "https://localhost:3000/logo" },
+{ "store": "PHÁO CAFE", "link": "https://localhost:3000/logo" },
+{
+  "store": "PASSIO",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/passio-coffee-nguyen-trong-tuyen-18e69809636298407352887146.jpg"
+},
+{ "store": "DADDY PARIS", "link": "https://localhost:3000/logo" },
+{
+  "store": "PARIS BAGUETTE",
+  "link": "http://cdn05.diadiemanuong.com/photo/320x/00054/paris_baguette__de_tham_e5889976635418825228362445.jpg"
+},
+{
+  "store": "MIZUSAWA",
+  "link": "http://cdn01.diadiemanuong.com//ddau/320x/diadiemanuong-com-tra-sua-kieu-nhat-mizusawa49084893636019377326935250.jpg"
+},
+{
+  "store": "TOCOTOCO",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/tocotoco-tea-40c90383637026703814269259.jpg"
+},
+{ "store": "SUMO STEAK 1", "link": "https://localhost:3000/logo" },
+{ "store": "SUMO STEAK", "link": "https://localhost:3000/logo" },
+{ "store": "TÙNG BOOK COFFEE", "link": "https://localhost:3000/logo" },
+{ "store": "TUNGBOOK1", "link": "https://localhost:3000/logo" },
+{ "store": "SAVOR", "link": "https://localhost:3000/logo" },
+{ "store": "HAHA CHICKEN", "link": "https://localhost:3000/logo" },
+{
+  "store": "SỮA TƯƠI TRÂN CHÂU ĐƯỜNG ĐEN",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/sua-tuoi-tran-chau-duong-den-con-soi-nguyen-thi-nho-dc5d39f0636878958476736110.jpg"
+},
+{
+  "store": "TRÀ SỮA HEFKCHA",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/tra-sua-hefkcha-tran-hung-dao-a24d6807636432440012455290.jpg"
+},
+{ "store": "QUÁN KHÓI 1", "link": "https://localhost:3000/logo" },
+{
+  "store": "CHÈ VÀ TRÀ SỮA ĐÀI LOAN BLACKBALL",
+  "link": "https://localhost:3000/logo"
+},
+{
+  "store": "ROYAL TEA",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/royal-tea-coffee-d4e1da9636814182099934463.jpg"
+},
+{ "store": "APSARA CAFE", "link": "https://localhost:3000/logo" },
+{ "store": "MÌ QUẢNG ẤM CHÈ XANH", "link": "https://localhost:3000/logo" },
+{
+  "store": "MILANO COFFEE",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/cua-hang-milano-so-2-48198aa4636477426391822567.jpg"
+},
+{ "store": "GIÀY BQ", "link": "https://localhost:3000/logo" },
+{
+  "store": "HƯƠNG TRÀ",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/tra-sua-xing-cha-tan-huong-8bdca110636637253443762103.jpg"
+},
+{ "store": "BÚN CHẢ VÀ BÁNH TÔM", "link": "https://localhost:3000/logo" },
+{ "store": "HỘ KINH DOANH HỒ TÂY", "link": "https://localhost:3000/logo" },
+{ "store": "ODIN COFFEE 2", "link": "https://localhost:3000/logo" },
+{ "store": "ODIN COFFEE", "link": "https://localhost:3000/logo" },
+{ "store": "ĐÔI MÓNG GIÒ", "link": "https://localhost:3000/logo" },
+{ "store": "VELA RESTAURANT", "link": "https://localhost:3000/logo" },
+{
+  "store": "GOGI",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/gogi-house-dinh-tien-hoang-4163963b636860867787535583.jpg"
+},
+{
+  "store": "CÔNG TY CỔ PHẦN THƯƠNG MẠI DỊCH VỤ CỔNG VÀNG",
+  "link": "https://localhost:3000/logo"
+},
+{
+  "store": "KICHI KICHI",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/kichi-kichi-nguyen-hong-dao-18d47e26636561132199222654.jpg"
+},
+{
+  "store": "SUMO BBQ",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/sumo-bbq-phan-van-tri-1aceb59a636764069373195341.jpg"
+},
+{
+  "store": "ISUSHI",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/isushi-buffet-nhat-ban-truong-son-f7c7df7f636870827513312519.jpg"
+},
+{ "store": "37THSTREET", "link": "https://localhost:3000/logo" },
+{
+  "store": "DAISO",
+  "link": "http://cdn01.diadiemanuong.com//ddau/320x/diadiemanuong-com-daiso-japan-cua-hang-dong-gia-nhat-ban-sc-vivocity1d31145f635823584541990337.jpg"
+},
+{
+  "store": "MOTO CAFE",
+  "link": "http://cdn05.diadiemanuong.com/photo/320x/00091/moto_cafe_d231e4b1635530520445563691.jpg"
+},
+{ "store": "PHỞ GÀ TA-BÚN DỌC MÙNG", "link": "https://localhost:3000/logo" },
+{ "store": "TRÀ CHANH CAFE MINH THÚY", "link": "https://localhost:3000/logo" },
+{ "store": "LAHA COFFEE", "link": "https://localhost:3000/logo" },
+{
+  "store": "CIRCLE K",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/circle-k-vinh-khanh-5935942a636655341258118924.jpg"
+},
+{
+  "store": "CAFE CÚ",
+  "link": "http://cdn05.diadiemanuong.com/photo/320x/00059/lung_cu_cafe_e240d045635418859660980535.jpg"
+},
+{ "store": "NHÀ HÀNG LONG BÉO", "link": "https://localhost:3000/logo" },
+{ "store": "FANCHA", "link": "https://localhost:3000/logo" },
+{ "store": "THÌN BÉO QUÁN", "link": "https://localhost:3000/logo" },
+{ "store": "LEE KIM CHI COFFEE", "link": "https://localhost:3000/logo" },
+{ "store": "MEN'S HEALTH", "link": "https://localhost:3000/logo" },
+{
+  "store": "CÔNG TY CỔ PHẦN SỨC KHỎE NAM GIỚI",
+  "link": "https://localhost:3000/logo"
+},
+{ "store": "COFFEE ANN", "link": "https://localhost:3000/logo" },
+{ "store": "COFFEE- CƠM VP", "link": "https://localhost:3000/logo" },
+{
+  "store": "THE MYRA COFFEE",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/the-myra-coffee-ea09d435636719127859501574.jpg"
+},
+{ "store": "FOGO TEA", "link": "https://localhost:3000/logo" },
+{ "store": "RANG MỘC COFFEE1", "link": "https://localhost:3000/logo" },
+{ "store": "QUÁN MR LÌ", "link": "https://localhost:3000/logo" },
+{ "store": "NHÀ HÀNG RÊU CÁ GARDEN", "link": "https://localhost:3000/logo" },
+{ "store": "ANN STORE", "link": "https://localhost:3000/logo" },
+{ "store": "VIETCETERA CAFE 1", "link": "https://localhost:3000/logo" },
+{ "store": "MODERN HUSTLE", "link": "https://localhost:3000/logo" },
+{
+  "store": "TRƯỜNG CHINH",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/giang-ghe-hai-san-song-truong-chinh-bbbee77a636972519534871215.jpg"
+},
+{
+  "store": "PHẠM HÙNG",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/com-chay-kho-quet-ba-khia-pham-hung-7839454a636888035482077069.jpg"
+},
+{
+  "store": "CÔNG TY TNHH TM DV THANH THÙY GROUP",
+  "link": "https://localhost:3000/logo"
+},
+{
+  "store": "QUẬN 7",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/take-sushi-cua-e8eed43637038850727993623.jpg"
+},
+{ "store": "1838 HUỲNH TẤN PHÁT", "link": "https://localhost:3000/logo" },
+{ "store": "ATELIER COFFEE", "link": "https://localhost:3000/logo" },
+{
+  "store": "CÔNG TY TNHH SUNDAY STUDIOS",
+  "link": "https://localhost:3000/logo"
+},
+{ "store": "NHẬU CHẤT - GU HOA LAN", "link": "https://localhost:3000/logo" },
+{ "store": "KHOÁI 49 ĐINH TIÊN HOÀNG", "link": "https://localhost:3000/logo" },
+{ "store": "HỘ KINH DOANH BỐN CHÍN", "link": "https://localhost:3000/logo" },
+{ "store": "TANOS", "link": "https://localhost:3000/logo" },
+{ "store": "BANYAN TEA", "link": "https://localhost:3000/logo" },
+{
+  "store": "THẾ GIỚI HÀU",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/woo-the-gioi-hau-chi-nhanh-4-binh-thanh-4fabd36b636485984922180809.jpg"
+},
+{ "store": "BẾP CỦA MẸ", "link": "https://localhost:3000/logo" },
+{ "store": "FOODHOUSE", "link": "https://localhost:3000/logo" },
+{
+  "store": "CÔNG TY CỔ PHẦN FC & KMEAT VIỆT NAM",
+  "link": "https://localhost:3000/logo"
+},
+{ "store": "GANGNAM STEAK XÃ ĐÀN", "link": "https://localhost:3000/logo" },
+{ "store": "FOODSTREET QUANG TRUNG", "link": "https://localhost:3000/logo" },
+{ "store": "FOODCENTER TRẦN PHÚ", "link": "https://localhost:3000/logo" },
+{ "store": "FOODCENTER BÀ TRIỆU", "link": "https://localhost:3000/logo" },
+{ "store": "BILIO COFFEE", "link": "https://localhost:3000/logo" },
+{ "store": "OANHBUNMIEN1", "link": "https://localhost:3000/logo" },
+{ "store": "SARI", "link": "https://localhost:3000/logo" },
+{ "store": "OANH CƠM BÚN MIẾN", "link": "https://localhost:3000/logo" },
+{ "store": "TORANO", "link": "https://localhost:3000/logo" },
+{ "store": "SCT", "link": "https://localhost:3000/logo" },
+{
+  "store": "CÔNG TY CỔ PHẦN BWS VIỆT NAM",
+  "link": "https://localhost:3000/logo"
+},
+{ "store": "VVT", "link": "https://localhost:3000/logo" },
+{ "store": "SVH", "link": "https://localhost:3000/logo" },
+{ "store": "TERRISA DIRECT", "link": "https://localhost:3000/logo" },
+{ "store": "CÔNG TY TNHH QUỐC TẾ SOMY", "link": "https://localhost:3000/logo" },
+{
+  "store": "NGUYỄN TRI PHƯƠNG",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/the-gom-house-nguyen-tri-phuong-bbdb3d3b637003531742596411.jpg"
+},
+{
+  "store": "HỘ KINH DOANH LÂM VĂN THẮNG",
+  "link": "https://localhost:3000/logo"
+},
+{
+  "store": "QUẬN 6",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/naked-sushi-sashimi-6d2ee518637038864060490631.jpg"
+},
+{
+  "store": "MINISTOP",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/sua-bap-nep-thai-son-1dee140d636667468312116559.jpg"
+},
+{ "store": "CHICBAE21", "link": "https://localhost:3000/logo" },
+{ "store": "CAFE HÀO NAM", "link": "https://localhost:3000/logo" },
+{ "store": "ECO FRUITS", "link": "https://localhost:3000/logo" },
+{
+  "store": "4GS TEXAS",
+  "link": "http://cdn05.diadiemanuong.com/photo/320x/00035/4gs_texas_bakery_6f7354c4635416286943505134.jpg"
+},
+{ "store": "COFFEE PING", "link": "https://localhost:3000/logo" },
+{
+  "store": "SMOOTHIE",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/chy-coffee-smoothie-97f365b7635996120378386216.jpg"
+},
+{ "store": "BÚN BÒ HUẾ GIA HỘI81", "link": "https://localhost:3000/logo" },
+{
+  "store": "VIVA",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/viva-star-coffee-bay-hien-c1c034e6636650843098895028.jpg"
+},
+{
+  "store": "LITTLE SOMETHING",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/little-something-dessert-cb016309636207775755413381.jpg"
+},
+{ "store": "CÔNG TY TNHH KARTOFFELN", "link": "https://localhost:3000/logo" },
+{ "store": "CAFÉ LÂM 29", "link": "https://localhost:3000/logo" },
+{ "store": "ĐỨC TRANG BAKERY", "link": "https://localhost:3000/logo" },
+{
+  "store": "HỘ KINH DOANH  AN XANH VEGGIE CAFE AND BREAD",
+  "link": "https://localhost:3000/logo"
+},
+{ "store": "GENSHAI SUPERMARKET", "link": "https://localhost:3000/logo" },
+{
+  "store": "R&B TEA NGUYỄN THÁI HỌC",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/r-ec7fa4ca636821251911308629.jpg"
+},
+{
+  "store": "R & B TEA NGUYỄN THÁI HỌC",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/r-ec7fa4ca636821251911308629.jpg"
+},
+{ "store": "BÁNH MỲ ZÒN", "link": "https://localhost:3000/logo" },
+{ "store": "BÁNH MỲ ZÒN 1", "link": "https://localhost:3000/logo" },
+{ "store": "ROSSO CAFÉ", "link": "https://localhost:3000/logo" },
+{ "store": "TARMI MART", "link": "https://localhost:3000/logo" },
+{ "store": "PASSSS COFFEE", "link": "https://localhost:3000/logo" },
+{ "store": "NHÀ HÀNG KHOÁI LÊ QUÝ ĐÔN", "link": "https://localhost:3000/logo" },
+{
+  "store": "CÔNG TY TNHH DIỆP DƯNG PHÚ",
+  "link": "https://localhost:3000/logo"
+},
+{
+  "store": "SAVOURE",
+  "link": "http://cdn05.diadiemanuong.com/photo/320x/00021/savoure__d2_40738bfa635415516917050997.jpg"
+},
+{ "store": "SAVOURE XVNT", "link": "https://localhost:3000/logo" },
+{ "store": "SAVOURE LÊ QUANG ĐỊNH", "link": "https://localhost:3000/logo" },
+{ "store": "SAVOURE 30D2", "link": "https://localhost:3000/logo" },
+{ "store": "BLUE INFINITY COFFEE", "link": "https://localhost:3000/logo" },
+{
+  "store": "OSAKA",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/lau-bang-chuyen-osaka-pho-quang-34a20284636892186072280807.jpg"
+},
+{ "store": "DEMI COFFEE", "link": "https://localhost:3000/logo" },
+{
+  "store": "BÚN BÒ HUẾ O-NGA",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/bun-bo-hue-ba-o-30e3ec41636916248943419984.jpg"
+},
+{
+  "store": "DA LAT HASFARM SUPERMARKET",
+  "link": "https://localhost:3000/logo"
+},
+{ "store": "STU COFFEE & FOOD", "link": "https://localhost:3000/logo" },
+{ "store": "3T COFFEE", "link": "https://localhost:3000/logo" },
+{
+  "store": "CAFE 63",
+  "link": "http://cdn05.diadiemanuong.com/photo/320x/00056/nhac_tre_63_cafe_40f2002a635418842239942088.jpg"
+},
+{
+  "store": "THẢO CAFE",
+  "link": "http://cdn01.diadiemanuong.com//ddau/320x/diadiemanuong-com-snowman-dessert-cae-vincom-mega-mall-thao-dien998bb569635884036434703134.jpg"
+},
+{
+  "store": "CHẢO CAFE",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/chao-cafe-nguyen-van-thu-c02cb912635984723802450762.jpg"
+},
+{ "store": "ỐC CHUỐI ĐẬU", "link": "https://localhost:3000/logo" },
+{ "store": "LIVING WELL LOUNGE", "link": "https://localhost:3000/logo" },
+{
+  "store": "HỘ KINH DOANH LIVING WELL DELI",
+  "link": "https://localhost:3000/logo"
+},
+{ "store": "LIVING WELL DELI", "link": "https://localhost:3000/logo" },
+{ "store": "HT MART", "link": "https://localhost:3000/logo" },
+{ "store": "MILESTONE COFFEE", "link": "https://localhost:3000/logo" },
+{
+  "store": "HỘ KINH DOANH NHỮNG CHẶNG ĐƯỜNG CÀ PHÊ",
+  "link": "https://localhost:3000/logo"
+},
+{
+  "store": "LECASTELLA AND LEECHA HUỲNH THÚC KHÁNG",
+  "link": "https://localhost:3000/logo"
+},
+{
+  "store": "LECASTELLA AND LEECHA LÊ ĐẠI HÀNH",
+  "link": "https://localhost:3000/logo"
+},
+{
+  "store": "VUA CUA",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/vua-cua-bau-cat-be76a4a4636809006450877556.jpg"
+},
+{ "store": "HỘ KINH DOANH KIỀU OANH", "link": "https://localhost:3000/logo" },
+{
+  "store": "DESTINY'S HOUSE - COFFEE Q1",
+  "link": "https://localhost:3000/logo"
+},
+{
+  "store": "MOUNTAIN PEARL COFFEE",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/mountain-pearl-coffee-8a7ce253636948975899190825.jpg"
+},
+{ "store": "ALTO COFFEE", "link": "https://localhost:3000/logo" },
+{
+  "store": "THE ORGANIC - NHÀ HÀNG CHAY",
+  "link": "http://cdn05.diadiemanuong.com/photo/320x/00014/the_organic__nha_hang_chay_46c7f01b635415470779956500.jpg"
+},
+{
+  "store": "BÚN ĐẬU MẸT",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/bun-dau-met-pho-sai-gon-9f1dd997636898203366585653.jpg"
+},
+{ "store": "TUTICARE", "link": "https://localhost:3000/logo" },
+{ "store": "XUÂN VŨ AUDIO", "link": "https://localhost:3000/logo" },
+{ "store": "CỬA HÀNG GÀ 99", "link": "https://localhost:3000/logo" },
+{ "store": "BÁNH CUỐN 77 ĐẶNG VĂN NGỮ", "link": "https://localhost:3000/logo" },
+{ "store": "BÁNH CUỐN 77 ĐẶNG VĂN NGỮ", "link": "https://localhost:3000/logo" },
+{ "store": "KOMBO", "link": "https://localhost:3000/logo" },
+{
+  "store": "COCO KEM",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/diadiemanuong-com-coco-kem258783f4635647052736109361.jpg"
+},
+{ "store": "SWEETHOUSE COFFEE", "link": "https://localhost:3000/logo" },
+{
+  "store": "CỬA HÀNG PHƯƠNG",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/xoi-cot-dien-tran-phu-52f4b4ff636459886113183870.jpg"
+},
+{ "store": "SONAS", "link": "https://localhost:3000/logo" },
+{ "store": "CÁI GÌ CŨNG BÁN", "link": "https://localhost:3000/logo" },
+{ "store": "PAPA ROTI", "link": "https://localhost:3000/logo" },
+{ "store": "YOUONE HOTDOG", "link": "https://localhost:3000/logo" },
+{ "store": "YOU ONE HOT DOG", "link": "https://localhost:3000/logo" },
+{ "store": "HỘ KINH DOANH BEEFSTEAK", "link": "https://localhost:3000/logo" },
+{
+  "store": "RES BEEFSTEAK",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/res-beefsteak-lam-van-ben-71451381636105055383754471.jpg"
+},
+{
+  "store": "QUÁN CƠM QUÊ",
+  "link": "http://cdn05.diadiemanuong.com/photo/320x/00063/hoi_quan_que_huong_467__com_binh_dan_220cbc00635418901348888003.jpg"
+},
+{ "store": "CACHI TEA", "link": "https://localhost:3000/logo" },
+{
+  "store": "MON TEA",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/mon-milk-tea-taiwan-75413ce8636779664278951113.jpg"
+},
+{
+  "store": "MON TEA",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/mon-milk-tea-taiwan-75413ce8636779664278951113.jpg"
+},
+{ "store": "MÌ QUẢNG THĂNG BÌNH", "link": "https://localhost:3000/logo" },
+{
+  "store": "HỘ KINH DOANH DỊCH VỤ ĂN BÍCH ĐÀO",
+  "link": "https://localhost:3000/logo"
+},
+{
+  "store": "CHÁO ẾCH SINGAPORE",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/chao-ech-singapore-nguyen-sang-11623cc3636878955342947846.jpg"
+},
+{
+  "store": "DUNKIN DONUTS",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/diadiemanuong-com-dunkin-donuts-petrolimex-phan-dang-luu670a98ec635821427129310214.jpg"
+},
+{ "store": "THÈM TRÁI CÂY.", "link": "https://localhost:3000/logo" },
+{ "store": "THÈM TRÁI CÂY", "link": "https://localhost:3000/logo" },
+{ "store": "COMGAQUANGBINH1", "link": "https://localhost:3000/logo" },
+{
+  "store": "CÔNG TY TNHH MỘT THÀNH VIÊN ĐẠI MỄ",
+  "link": "https://localhost:3000/logo"
+},
+{ "store": "HOẢNG TY 3", "link": "https://localhost:3000/logo" },
+{ "store": "QUÁN ĂN HOÀNG TY", "link": "https://localhost:3000/logo" },
+{ "store": "QUÁN CƠM THƯỢNG HẢI", "link": "https://localhost:3000/logo" },
+{
+  "store": "HOÀNG TY",
+  "link": "http://cdn05.diadiemanuong.com/photo/320x/00076/hoang_ty__nguyen_thai_binh_cea4ae60635418975409015146.jpg"
+},
+{ "store": "MOCHIOTEA", "link": "https://localhost:3000/logo" },
+{ "store": "K' STREET", "link": "https://localhost:3000/logo" },
+{
+  "store": "THE COFFEE HOUSE",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/the-coffee-house-le-thi-rieng-65f6ecab636788481916344095.jpg"
+},
+{ "store": "ROBIN MALL", "link": "https://localhost:3000/logo" },
+{ "store": "YIFANG", "link": "https://localhost:3000/logo" },
+{ "store": "SAKUKO", "link": "https://localhost:3000/logo" },
+{ "store": "LALY CAFE", "link": "https://localhost:3000/logo" },
+{ "store": "FOGLIAN COFFEE", "link": "https://localhost:3000/logo" },
+{ "store": "KOFI KAI COFFEE", "link": "https://localhost:3000/logo" },
+{
+  "store": "THE 1985",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/the-1985-cafe-c33f2bc5637013878700432494.jpg"
+},
+{
+  "store": "HOTTO",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/hotto-vincom-mega-mall-3ce30823636386622082195074.jpg"
+},
+{ "store": "VIETSTREET", "link": "https://localhost:3000/logo" },
+{ "store": "HOLIMIX COFFEE", "link": "https://localhost:3000/logo" },
+{
+  "store": "CHEESE LAB",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/tra-sua-cheese-lab-bf5c1d62636834245748915870.jpg"
+},
+{ "store": "BÁNH KẾP VIET CREPE 1", "link": "https://localhost:3000/logo" },
+{
+  "store": "TOUS LES JOURS",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/diadiemanuong-com-tous-les-jours-the-panorama6b18b91635742135074983678.jpg"
+},
+{ "store": "CHEW TEA", "link": "https://localhost:3000/logo" },
+{ "store": "CHEW TEA", "link": "https://localhost:3000/logo" },
+{
+  "store": "HOA HƯỚNG DƯƠNG",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/vuon-hoa-huong-duong-van-phuc-a7b99a45636917032330395077.jpg"
+},
+{
+  "store": "SOYA GARDEN",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/soya-garden-ly-tu-trong-8b73e7ed636994916299066155.jpg"
+},
+{ "store": "BÚN CHẢ TÙNG LÂM", "link": "https://localhost:3000/logo" },
+{
+  "store": "AUNTIE KIM",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/tra-sua-auntie-kim-ef75b64f636402458490614035.jpg"
+},
+{
+  "store": "CAFE LEO",
+  "link": "http://cdn05.diadiemanuong.com/photo/320x/00058/leo_cafe_6a6b5431635418851299674513.jpg"
+},
+{ "store": "PASTAMANIA", "link": "https://localhost:3000/logo" },
+{ "store": "NGÕ SAIGON", "link": "https://localhost:3000/logo" },
+{
+  "store": "CÔNG TY TNHH QUỐC TẾ LÊ KIÊN",
+  "link": "https://localhost:3000/logo"
+},
+{ "store": "THAIEXPRESS SC VIVOCITY", "link": "https://localhost:3000/logo" },
+{ "store": "SHABU YA VẠN HẠNH MALL", "link": "https://localhost:3000/logo" },
+{ "store": "THAIEXPRESS TRẦN CAO VÂN", "link": "https://localhost:3000/logo" },
+{ "store": "THAIEXPRESS VINCOM", "link": "https://localhost:3000/logo" },
+{
+  "store": "NGÕ VINCOM",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/ngo-vincom-2bd21912636159249737419156.jpg"
+},
+{
+  "store": "THAIEXPRESS PHAN XÍCH LONG",
+  "link": "https://localhost:3000/logo"
+},
+{
+  "store": "THAIEXPRESS CRESCENT PLAZA",
+  "link": "https://localhost:3000/logo"
+},
+{ "store": "THAIEXPRESS VẠN HẠNH MALL", "link": "https://localhost:3000/logo" },
+{
+  "store": "SHABU YA AEON MALL BÌNH TÂN",
+  "link": "https://localhost:3000/logo"
+},
+{
+  "store": "THAIEXPRESS AEON MALL BÌNH TÂN",
+  "link": "https://localhost:3000/logo"
+},
+{
+  "store": "SHABU YA SC VIVOCITY",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/diadiemanuong-com-shabu-ya-buffet-lau-nhat-sc-vivocityd6cdfcc5635754045912922267.jpg"
+},
+{ "store": "THAIEXPRESS SAIGON CENTRE", "link": "https://localhost:3000/logo" },
+{
+  "store": "CÔNG TY TNHH TMDV VƯỜN RAU CHẤM COM",
+  "link": "https://localhost:3000/logo"
+},
+{
+  "store": "DISCOVERY CORNERS COFFEE",
+  "link": "http://cdn01.diadiemanuong.com//ddau/320x/discovery-corners-coffeetp-hcm-84848f98636412670525761135.jpg"
+},
+{ "store": "ĐÈN BẦU COFFEE", "link": "https://localhost:3000/logo" },
+{ "store": "PEPPERONI", "link": "https://localhost:3000/logo" },
+{ "store": "KHAY COFFEE", "link": "https://localhost:3000/logo" },
+{
+  "store": "QUÁN MÓN HUẾ",
+  "link": "http://cdn05.diadiemanuong.com/photo/320x/00011/quan_ngu_binh__mon_hue_9262eaf0635415413785208620.jpg"
+},
+{ "store": "DELITHY", "link": "https://localhost:3000/logo" },
+{
+  "store": "CO PORT",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/co-port-quan-10-6fbd675b636800472407222331.jpg"
+},
+{ "store": "AA STOP & SHOP", "link": "https://localhost:3000/logo" },
+{ "store": "BERNARD CAFE", "link": "https://localhost:3000/logo" },
+{ "store": "NEM TRƯỜNG TÂM", "link": "https://localhost:3000/logo" },
+{ "store": "CHÈ NGON BÉ CHUN", "link": "https://localhost:3000/logo" },
+{ "store": "O'DOUCEURS BAKERY", "link": "https://localhost:3000/logo" },
+{ "store": "NỘM GIA TRUYỀN HOA MAI", "link": "https://localhost:3000/logo" },
+{ "store": "SHOWROOM TRÀ VIỆT - HCM", "link": "https://localhost:3000/logo" },
+{ "store": "TRÀ SỮA T - CAT", "link": "https://localhost:3000/logo" },
+{ "store": "THE HANGOVER COFFEE", "link": "https://localhost:3000/logo" },
+{
+  "store": "MÌ VỊT TIỀM YAU CHAN",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/yau-chan-mi-vit-tiem-40cd126d636794424721104049.jpg"
+},
+{ "store": "MÌ VỊT TIỀM YAUCHAN", "link": "https://localhost:3000/logo" },
+{
+  "store": "CÔNG TY CỔ PHẦN THẾ GIỚI PHỤ NỮ",
+  "link": "https://localhost:3000/logo"
+},
+{ "store": "IBASIC - SAIGON CENTRE", "link": "https://localhost:3000/logo" },
+{
+  "store": "IBASIC - VINCOM SKYLAKE HN",
+  "link": "https://localhost:3000/logo"
+},
+{
+  "store": "IBASIC - CH NGUYỄN ĐÌNH CHIỂU",
+  "link": "https://localhost:3000/logo"
+},
+{ "store": "IBASIC - VINCOM THẢO ĐIỀN", "link": "https://localhost:3000/logo" },
+{ "store": "IBASIC - CH BIÊN HÒA", "link": "https://localhost:3000/logo" },
+{ "store": "IBASIC - CH KIM MÃ", "link": "https://localhost:3000/logo" },
+{
+  "store": "IBASIC - CH NGUYỄN THỊ THẬP",
+  "link": "https://localhost:3000/logo"
+},
+{ "store": "IBASIC - CH MẬU THÂN", "link": "https://localhost:3000/logo" },
+{ "store": "IBASIC - HẬU GIANG Q6", "link": "https://localhost:3000/logo" },
+{ "store": "IBASIC - CH ÂU CƠ", "link": "https://localhost:3000/logo" },
+{ "store": "IBASIC - CH CMT8", "link": "https://localhost:3000/logo" },
+{ "store": "IBASIC - CH QUANG TRUNG", "link": "https://localhost:3000/logo" },
+{
+  "store": "MR-9 COFFEE",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/koilands-coffee-quan-9-5e4ec50a636940482842008614.jpg"
+},
+{ "store": "WE' SCORNER COFFEE123", "link": "https://localhost:3000/logo" },
+{ "store": "HỘ KINH DOANH SONG BÌNH", "link": "https://localhost:3000/logo" },
+{
+  "store": "CƠM TẤM THUẬN KIỀU",
+  "link": "http://cdn05.diadiemanuong.com/photo/320x/00057/com_tam_thuan_kieu__binh_tri_dong_ca9d7c48635418845406810242.jpg"
+},
+{
+  "store": "HỘ KINH DOANH PHẠM HUỲNH NHƯ",
+  "link": "https://localhost:3000/logo"
+},
+{ "store": "NƯỚC ÉP TRÁI CÂY NHƯ", "link": "https://localhost:3000/logo" },
+{
+  "store": "GRAND COFFEE",
+  "link": "http://cdn05.diadiemanuong.com/photo/320x/00039/gloria_jeans_coffee__grand_view_e140971c635416414901010592.jpg"
+},
+{
+  "store": "BOOTH",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/shop-online-bo-booth-dak-lak-a57bd584636449669477652244.jpg"
+},
+{ "store": "NEW BALANCE LÊ VĂN SỸ", "link": "https://localhost:3000/logo" },
+{ "store": "NEW BALANCE NGUYỄN TRÃI", "link": "https://localhost:3000/logo" },
+{ "store": "SUPERSPORT CRESCENT", "link": "https://localhost:3000/logo" },
+{ "store": "SUPERSPORT VIVO", "link": "https://localhost:3000/logo" },
+{ "store": "CROCS CAO THẮNG", "link": "https://localhost:3000/logo" },
+{ "store": "CROCS CRESCENT MALL", "link": "https://localhost:3000/logo" },
+{ "store": "SUPERSPORT TIMES", "link": "https://localhost:3000/logo" },
+{ "store": "SUPERSPORT VCBT", "link": "https://localhost:3000/logo" },
+{ "store": "CROCS HAI BÀ TRƯNG", "link": "https://localhost:3000/logo" },
+{ "store": "SPEEDO LÝ TỰ TRỌNG", "link": "https://localhost:3000/logo" },
+{ "store": "SUPERSPORT ROYAL", "link": "https://localhost:3000/logo" },
+{
+  "store": "MR CAKE",
+  "link": "http://cdn05.diadiemanuong.com/photo/320x/00035/mr_cake__le_van_sy_ce96e3e9635416282726305676.jpg"
+},
+{
+  "store": "THẾ GIỚI GIÀY PATIN BÌNH THẠNH",
+  "link": "https://localhost:3000/logo"
+},
+{
+  "store": "CÔNG TY TNHH THỂ THAO ĐƯỜNG PHỐ",
+  "link": "https://localhost:3000/logo"
+},
+{
+  "store": "THẾ GIỚI GIÀY PATIN ĐẶNG TIẾN ĐÔNG",
+  "link": "https://localhost:3000/logo"
+},
+{ "store": "VIVO COFFEE & TEA", "link": "https://localhost:3000/logo" },
+{ "store": "GO GREEN SHOP", "link": "https://localhost:3000/logo" },
+{ "store": "CUỐN VÀ CHẤM", "link": "https://localhost:3000/logo" },
+{
+  "store": "CUỐN VÀ CHẤM - NGUYỄN HỮU THỌ",
+  "link": "https://localhost:3000/logo"
+},
+{ "store": "CUỐN VÀ CHẤM - CỘNG HÒA", "link": "https://localhost:3000/logo" },
+{
+  "store": "BÁNH MÌ THỔ NHĨ KÌ",
+  "link": "http://cdn05.diadiemanuong.com/photo/320x/00056/bamiau__banh_mi_tho_nhi_ki_7d58e0d9635418842497193905.jpg"
+},
+{
+  "store": "MICHI SUSHI",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/sushi-michi-quan-1-a6ad98d5636747767965485955.jpg"
+},
+{
+  "store": "CAFE MUỐI",
+  "link": "http://cdn05.diadiemanuong.com/photo/320x/00063/muoi_cafe_house_07458d70635418897336169986.jpg"
+},
+{ "store": "SAKURA SOU JAPAN", "link": "https://localhost:3000/logo" },
+{ "store": "BÁNH MỲ ÁNH TUYẾT", "link": "https://localhost:3000/logo" },
+{ "store": "KIMMY'S CHOCOLATE HÀ NỘI", "link": "https://localhost:3000/logo" },
+{ "store": "FRUITSDAY", "link": "https://localhost:3000/logo" },
+{ "store": "MARUMART", "link": "https://localhost:3000/logo" },
+{ "store": "TWITTER BEANS COFFEE", "link": "https://localhost:3000/logo" },
+{ "store": "TWTTER BEANS COFFEE MĐI1", "link": "https://localhost:3000/logo" },
+{ "store": "TWTTER BEANS COFFEE QMIN", "link": "https://localhost:3000/logo" },
+{ "store": "TWTTER BEANS COFFEE  VIEA", "link": "https://localhost:3000/logo" },
+{ "store": "TWTTER BEANS COFFEE HOLA", "link": "https://localhost:3000/logo" },
+{ "store": "TWTTER BEANS COFFEE THNC", "link": "https://localhost:3000/logo" },
+{ "store": "TWTTER BEANS COFFEE LICO", "link": "https://localhost:3000/logo" },
+{ "store": "TWTTER BEANS COFFEE MIPE", "link": "https://localhost:3000/logo" },
+{ "store": "TWTTER BEANS COFFEE ANBI", "link": "https://localhost:3000/logo" },
+{ "store": "TWTTER BEANS COFFEE SODA", "link": "https://localhost:3000/logo" },
+{
+  "store": "TWTTER BEANS COFFEE HOME CITY",
+  "link": "https://localhost:3000/logo"
+},
+{ "store": "TWTTER BEANS COFFEE TLN1", "link": "https://localhost:3000/logo" },
+{ "store": "NHÀ HÀNG CHAY AMITABA", "link": "https://localhost:3000/logo" },
+{ "store": "TRÀ SỮA EARL TEA", "link": "https://localhost:3000/logo" },
+{
+  "store": "TRÀ SỮA EARL TEA 684 SƯ VẠN HẠNH",
+  "link": "https://localhost:3000/logo"
+},
+{
+  "store": "ĐEN ĐÁ COFFEE",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/den-da-coffee-phan-xich-long-223c6a43636389075459780616.jpg"
+},
+{
+  "store": "VISSAN",
+  "link": "http://cdn05.diadiemanuong.com/photo/320x/00065/vissan__bach_dang_76be0e09635418911355869498.jpg"
+},
+{
+  "store": "TRÀ SỮA MẸ TÔI - 266 NGÔ QUYỀN",
+  "link": "https://localhost:3000/logo"
+},
+{
+  "store": "TRÀ SỮA MẸ TÔI - 66 NI SƯ HUỲNH LIÊN",
+  "link": "https://localhost:3000/logo"
+},
+{ "store": "TRÀ SỮA MẸ TÔI", "link": "https://localhost:3000/logo" },
+{
+  "store": "HESTIA COFFEE & MILKTEA 378 VÕ VĂN TẦN",
+  "link": "https://localhost:3000/logo"
+},
+{ "store": "HESTIA COFFEE & MILKTEA", "link": "https://localhost:3000/logo" },
+{ "store": "NHÀ HÀNG CHẢO", "link": "https://localhost:3000/logo" },
+{
+  "store": "TRÀ SỮA 1ST TEA",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/1st-tea-quan-tra-sua-cb591ecf636474768747266869.jpg"
+},
+{
+  "store": "SUSHI CÔ CHỦ NHỎ",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/sushi-co-chu-nho-bd17f228636492931829074744.jpg"
+},
+{
+  "store": "CAFE LINH",
+  "link": "http://cdn01.diadiemanuong.com//ddau/320x/cafe-khanh-linhtp-hcm-8050e8d7636506768553265075.jpg"
+},
+{
+  "store": "BÚN QUẬY PHÚ QUỐC",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/bun-quay-phu-quoc-nguyen-tri-phuong-c64bda04636952403929450802.jpg"
+},
+{ "store": "THE LAMBOO", "link": "https://localhost:3000/logo" },
+{ "store": "LIDER STORE", "link": "https://localhost:3000/logo" },
+{ "store": "MR GOOD TEA", "link": "https://localhost:3000/logo" },
+{ "store": "MR GOODTEA", "link": "https://localhost:3000/logo" },
+{
+  "store": "THỊT XIÊN NƯỚNG",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/thit-xien-nuong-marie-curie-ngo-thoi-nhiem-9469300636336530665420606.jpg"
+},
+{ "store": "HỘ KINH DOANH FULI", "link": "https://localhost:3000/logo" },
+{
+  "store": "TỶ MUỘI",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/ty-muoi-quan-461ed83636857539477794438.jpg"
+},
+{
+  "store": "G COFFEE",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/groom-pub-coffee-25c8ff4e637036369638415118.jpg"
+},
+{ "store": "XÔ VIẾT NGHỆ TĨNH", "link": "https://localhost:3000/logo" },
+{
+  "store": "HỘ KINH DOANH NGUYỄN THỊ MAI HOA",
+  "link": "https://localhost:3000/logo"
+},
+{ "store": "CÔNG TY TNHH MONICA", "link": "https://localhost:3000/logo" },
+{
+  "store": "MÓN VIỆT  88",
+  "link": "http://cdn01.diadiemanuong.com//ddau/320x/diadiemanuong-com-mon-viet-88-vincom-mega-mall-thao-dien2990d86f635890980508164202.jpg"
+},
+{
+  "store": "LẨU KIKI",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/lau-kiki-hotpot-f1dc2336636936954154124837.jpg"
+},
+{ "store": "SHOP RIVERSIDE", "link": "https://localhost:3000/logo" },
+{ "store": "RYU CHA", "link": "https://localhost:3000/logo" },
+{ "store": "CHÁO GIA TRUYỀN THANH TÂM", "link": "https://localhost:3000/logo" },
+{
+  "store": "3 SẠCH",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/bun-bo-gio-sinh-to-trai-cay-3-sach-quan-df6b26f8636334165256304462.jpg"
+},
+{ "store": "3SẠCH VINHOMES PARK 1", "link": "https://localhost:3000/logo" },
+{ "store": "3SẠCH TRESOR", "link": "https://localhost:3000/logo" },
+{ "store": "3SẠCH 124 TRẦN NÃO", "link": "https://localhost:3000/logo" },
+{
+  "store": "3SẠCH 246 NGUYỄN ĐÌNH CHIỂU",
+  "link": "https://localhost:3000/logo"
+},
+{ "store": "3SẠCH VINHOMES PARK 3", "link": "https://localhost:3000/logo" },
+{ "store": "3SẠCH 26 HOÀNG DIỆU", "link": "https://localhost:3000/logo" },
+{ "store": "MANA BAKERY AND DRINKS", "link": "https://localhost:3000/logo" },
+{
+  "store": "FEELING TEA",
+  "link": "http://cdn05.diadiemanuong.com/photo/320x/00014/tra_sua__feeling_tea__duong_3_thang_2_145502ae635415464400964352.jpg"
+},
+{ "store": "FEELING  TEA 137 NGỌC HỒI", "link": "https://localhost:3000/logo" },
+{ "store": "TEA HIGH INDOCHINA PLAZA", "link": "https://localhost:3000/logo" },
+{
+  "store": "BÁNH SU QUE",
+  "link": "http://cdn01.diadiemanuong.com//ddau/320x/diadiemanuong-com-banh-su-kem-que34c0692e635860241315197244.jpg"
+},
+{ "store": "NHÀ HÀNG CƠM BÚN BÒ HUẾ", "link": "https://localhost:3000/logo" },
+{
+  "store": "HỘ KINH DOANH CƠM BÚN BÒ HUẾ NGUYỄN THỊ HẠNH",
+  "link": "https://localhost:3000/logo"
+},
+{
+  "store": "KUBIN",
+  "link": "http://cdn05.diadiemanuong.com/photo/320x/00050/kubin__tra_sua_thach_pho_mai_870773ae635418764826083614.jpg"
+},
+{ "store": "PHỦI CAFE", "link": "https://localhost:3000/logo" },
+{
+  "store": "QUÁN ĂN GIA ĐÌNH",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/quan-an-gia-dinh-sau-ga-tre-1906819b637006267741494018.jpg"
+},
+{ "store": "LE MONDE STEAK", "link": "https://localhost:3000/logo" },
+{
+  "store": "LE MONDE STEAK - VINCOM BÀ TRIỆU",
+  "link": "https://localhost:3000/logo"
+},
+{
+  "store": "LE MONDE STEAK - VINCOM TIMES CITY",
+  "link": "https://localhost:3000/logo"
+},
+{
+  "store": "YAKIMONO VINCOM TRẦN DUY HƯNG",
+  "link": "https://localhost:3000/logo"
+},
+{
+  "store": "LE MONDE STEAK - VINCOM TRẦN DUY HƯNG",
+  "link": "https://localhost:3000/logo"
+},
+{
+  "store": "CÀ PHÊ ANH",
+  "link": "http://cdn01.diadiemanuong.com//ddau/320x/diadiemanuong-com-ca-phe-tram-anhc391e934635994502322635348.jpg"
+},
+{
+  "store": "CÀ PHÊ ANH",
+  "link": "http://cdn01.diadiemanuong.com//ddau/320x/diadiemanuong-com-ca-phe-tram-anhc391e934635994502322635348.jpg"
+},
+{
+  "store": "BÁNH MÌ SÀI GÒN",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/banh-mi-cha-tom-muc-banh-mi-sai-gon-65f73a87635972854747752476.jpg"
+},
+{
+  "store": "PHÚC LONG",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/phuc-long-truong-chinh-e8d0c7ff636507504815002010.jpg"
+},
+{
+  "store": "OTOKE CHICKEN",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/otoke-chicken-nguyen-duy-trinh-f4235698636933557101144872.jpg"
+},
+{
+  "store": "FRUIT STATION",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/chubeboi-tea-fruit-station-2212d7a8636909434080467393.jpg"
+},
+{
+  "store": "MASTER TEA",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/ice-master-premium-tea-dessert-710771dd636924974839938521.jpg"
+},
+{
+  "store": "MASTER TEA ( TRẦN QUỐC HOÀN )",
+  "link": "https://localhost:3000/logo"
+},
+{ "store": "BÁC TÔM STORE", "link": "https://localhost:3000/logo" },
+{
+  "store": "CÔNG TY TNHH NÔNG NGHIỆP HÒN ĐẤT",
+  "link": "https://localhost:3000/logo"
+},
+{ "store": "CÔ NẮNG", "link": "https://localhost:3000/logo" },
+{ "store": "TAKA TEA", "link": "https://localhost:3000/logo" },
+{ "store": "TAOPHOLUA1", "link": "https://localhost:3000/logo" },
+{ "store": "THỰC PHẨM SẠCH GFOOD", "link": "https://localhost:3000/logo" },
+{ "store": "AMA KAFÉ NGÔ TẤT TỐ", "link": "https://localhost:3000/logo" },
+{
+  "store": "HỘ KINH DOANH CÀ PHÊ TRẠM THÀNH THỊ",
+  "link": "https://localhost:3000/logo"
+},
+{ "store": "BÁNH XXẾP HONG KONG - SVH", "link": "https://localhost:3000/logo" },
+{
+  "store": "BÁNH XẾP",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/banh-xep-binh-phu-8504b94c636834239363482938.jpg"
+},
+{ "store": "CREPES K", "link": "https://localhost:3000/logo" },
+{
+  "store": "AEON",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/crystal-jade-chicken-aeon-mall-tan-phu-c48bfe28637042242328762370.jpg"
+},
+{ "store": "AEON CITIMART BÌNH TÂN", "link": "https://localhost:3000/logo" },
+{ "store": "AEON CITIMART GREEN VIEW", "link": "https://localhost:3000/logo" },
+{ "store": "AEON CITIMART HIM LAM Q.7", "link": "https://localhost:3000/logo" },
+{ "store": "AEON CITIMART ETOWN", "link": "https://localhost:3000/logo" },
+{ "store": "AEON CITIMART NHA TRANG I", "link": "https://localhost:3000/logo" },
+{ "store": "AEON CITIMART NEW SÀI GÒN", "link": "https://localhost:3000/logo" },
+{ "store": "AEON CITIMART PARKSON Q.5", "link": "https://localhost:3000/logo" },
+{
+  "store": "AEON CITIMART NHA TRANG II",
+  "link": "https://localhost:3000/logo"
+},
+{ "store": "AEON HÀ NỘI - TOWER", "link": "https://localhost:3000/logo" },
+{ "store": "AEON CITIMART CAO THẮNG", "link": "https://localhost:3000/logo" },
+{ "store": "AEON CITIMART NAM LONG", "link": "https://localhost:3000/logo" },
+{ "store": "AEON HÀ NỘI - ECOPARK", "link": "https://localhost:3000/logo" },
+{ "store": "AEON CITIMART BÌNH DƯƠNG", "link": "https://localhost:3000/logo" },
+{ "store": "AEON CITIMART HIM LAM Q.6", "link": "https://localhost:3000/logo" },
+{ "store": "AEON CITIMART PHÚC YÊN", "link": "https://localhost:3000/logo" },
+{ "store": "AEON CITIMART SUNRISE", "link": "https://localhost:3000/logo" },
+{
+  "store": "AEON HÀ NỘI - INDOCHINA PLAZA",
+  "link": "https://localhost:3000/logo"
+},
+{
+  "store": "AEON CITIMART TROPIC GARDEN",
+  "link": "https://localhost:3000/logo"
+},
+{ "store": "AEON CITIMART BCA", "link": "https://localhost:3000/logo" },
+{ "store": "AEON CITIMART HƯNG VƯỢNG", "link": "https://localhost:3000/logo" },
+{
+  "store": "AEON CITIMART GARDEN PLAZA",
+  "link": "https://localhost:3000/logo"
+},
+{ "store": "AEON CITIMART SOMERSET", "link": "https://localhost:3000/logo" },
+{ "store": "AEON CITIMART RES 11", "link": "https://localhost:3000/logo" },
+{
+  "store": "SÚP CUA HOA",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/sup-cua-hoa-cuc-965a719b636132666355355716.jpg"
+},
+{
+  "store": "SINH TỐ - NƯỚC ÉP - TRÀ SỮA - NHO XANH",
+  "link": "https://localhost:3000/logo"
+},
+{ "store": "SPEED L NAM SÀI GÒN", "link": "https://localhost:3000/logo" },
+{
+  "store": "DOLL EYES",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/doll-eyes-b043936b636896635919451376.jpg"
+},
+{ "store": "WANG WANG RESTAURENT", "link": "https://localhost:3000/logo" },
+{ "store": "CƠM TÁM ĐẠI DƯƠNG", "link": "https://localhost:3000/logo" },
+{
+  "store": "SNOW BINGS",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/snow-bings-nguyen-cu-trinh-e2ff4c50636386670604278111.jpg"
+},
+{
+  "store": "CHEESE COFFEE",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/cheese-coffee-e14a7d02636202449820580546.jpg"
+},
+{
+  "store": "BÚN ĐẬU ẤT SỬU",
+  "link": "http://cdn05.diadiemanuong.com/photo/320x/00024/at_suu__bun_dau_mam_tom_6bb9d805635415554061966859.jpg"
+},
+{
+  "store": "CƠM HUỆ",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/com-tam-cali-81dcad4e636519553488365391.jpg"
+},
+{ "store": "HAPPY BABY SPA", "link": "https://localhost:3000/logo" },
+{
+  "store": "ẨM THỰC CHAY VEGETA",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/am-thuc-chay-vegeta-18475f33636042608036274360.jpg"
+},
+{ "store": "ÊMM DRINK", "link": "https://localhost:3000/logo" },
+{ "store": "LẨU LAKSA", "link": "https://localhost:3000/logo" },
+{ "store": "TRÀ SỮA ABC", "link": "https://localhost:3000/logo" },
+{ "store": "LÁ CÒN XANH SHOP", "link": "https://localhost:3000/logo" },
+{
+  "store": "CHẢO CÁ",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/chao-ca-pearl-plaza-d41f926a636819713193474151.jpg"
+},
+{
+  "store": "CHẢO CÁ – AEON MALL TÂN PHÚ",
+  "link": "https://localhost:3000/logo"
+},
+{ "store": "CHẢO CÁ – PEARL PLAZA", "link": "https://localhost:3000/logo" },
+{
+  "store": "CHẢO CÁ - VINCOM THẢO ĐIỀN",
+  "link": "https://localhost:3000/logo"
+},
+{
+  "store": "FRUZII COFFEE",
+  "link": "http://cdn01.diadiemanuong.com//ddau/320x/fruzii-smoothies-juices-coffeetp-hcm-d50f359c636128414578170857.jpg"
+},
+{ "store": "SWEETHOME BAKERY", "link": "https://localhost:3000/logo" },
+{ "store": "SAY COFFEE - SVH", "link": "https://localhost:3000/logo" },
+{ "store": "CÔNG TY TNHH PLUM", "link": "https://localhost:3000/logo" },
+{
+  "store": "CHÂN GÀ RANG MUỐI",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/diadiemanuong-com-chan-ga-rang-muoi-ky-dong60c312e8635624542409671038.jpg"
+},
+{ "store": "CÔ NGUYỆT QUÁN", "link": "https://localhost:3000/logo" },
+{ "store": "QUÁN BÚN ĐẬU VÂN LÙN", "link": "https://localhost:3000/logo" },
+{
+  "store": "DELI COFFEE",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/moc-deli-coffee-a284ce2f636620005619068610.jpg"
+},
+{ "store": "CHESAUTHEGIAO1", "link": "https://localhost:3000/logo" },
+{
+  "store": "SIÊU THỊ THỰC PHẨM SẠCH FALA",
+  "link": "https://localhost:3000/logo"
+},
+{
+  "store": "THE HUNGRY PIG .",
+  "link": "http://cdn05.diadiemanuong.com/photo/320x/00031/the_hungry_pig_34079af0635416251275309964.jpg"
+},
+{ "store": "KIM CHÍ QUÁN", "link": "https://localhost:3000/logo" },
+{ "store": "OVEN D'OR RESTAURANT", "link": "https://localhost:3000/logo" },
+{
+  "store": "CÔNG TY LIÊN DOANH TNHH BERJAYA - HỒ TÂY",
+  "link": "https://localhost:3000/logo"
+},
+{ "store": "TPC", "link": "https://localhost:3000/logo" },
+{
+  "store": "THE PIZZA COMPANY",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/the-pizza-company-phan-xich-long-11b95331636836667366792045.jpg"
+},
+{ "store": "FABI MART", "link": "https://localhost:3000/logo" },
+{ "store": "TRÀ SỮA MILKTEA GUY", "link": "https://localhost:3000/logo" },
+{ "store": "MIE FOOD", "link": "https://localhost:3000/logo" },
+{
+  "store": "TOOCHA",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/toocha-vo-thi-sau-f170c12c636537840137206424.jpg"
+},
+{
+  "store": "BÚN ĐẬU CẦU GỖ",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/diadiemanuong-com-bun-dau-cau-go-nguyen-trai4cb59d66635775594577042177.jpg"
+},
+{
+  "store": "BASKIN ROBBINS",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/kem-baskin-robbins-tran-hung-dao-153f37bd636453860120738422.jpg"
+},
+{ "store": "ASINT  COFFEE", "link": "https://localhost:3000/logo" },
+{ "store": "ASINT COFFEE", "link": "https://localhost:3000/logo" },
+{ "store": "OBAGI", "link": "https://localhost:3000/logo" },
+{ "store": "BÚN CHẢ BÌNH CHUNG", "link": "https://localhost:3000/logo" },
+{
+  "store": "CHÁO ẾCH SENTOSA",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/chao-ech-sentosa-6c329b0636695167172166382.jpg"
+},
+{ "store": "GÀ MẠNH HOẠCH", "link": "https://localhost:3000/logo" },
+{ "store": "TRÀ SỮA -18^C", "link": "https://localhost:3000/logo" },
+{
+  "store": "NẮNG COFFEE & ACOUSTIC",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/nang-rooftop-coffee-461818d9636891970207768959.jpg"
+},
+{ "store": "KUP COFFEE", "link": "https://localhost:3000/logo" },
+{ "store": "HOA CHANH COFFEE", "link": "https://localhost:3000/logo" },
+{
+  "store": "BOBAPOP",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/bobapop-tran-hung-dao-c583570e636540411821172460.jpg"
+},
+{ "store": "CALI RESTAURANT", "link": "https://localhost:3000/logo" },
+{ "store": "HẺM MÌ Ý", "link": "https://localhost:3000/logo" },
+{ "store": "TRÀ SỮA IMUZU", "link": "https://localhost:3000/logo" },
+{ "store": "CÔNG TY TNHH I MU ZU", "link": "https://localhost:3000/logo" },
+{
+  "store": "FURIN",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/diadiemanuong-com-furin-desert775909f0635785994343390149.jpg"
+},
+{
+  "store": "SÚP CUA ĐẠT BÉO",
+  "link": "http://cdn01.diadiemanuong.com//ddau/320x/sup-cua-dat-beotp-hcm-1a6091db636657767906649127.jpg"
+},
+{ "store": "NƯỚC ÉP SINH TỐ D.A.T", "link": "https://localhost:3000/logo" },
+{ "store": "NƯỚC ÉP SINH TỐ D.A.T1", "link": "https://localhost:3000/logo" },
+{ "store": "MR SẠCH COFFEE", "link": "https://localhost:3000/logo" },
+{ "store": "ELLA'S STORE", "link": "https://localhost:3000/logo" },
+{
+  "store": "THE BLACK TEA",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/the-black-tea-tan-binh-305cd805636695043912185293.jpg"
+},
+{
+  "store": "THE BLACK TEA - NGUYỄN THÁI BÌNH",
+  "link": "https://localhost:3000/logo"
+},
+{
+  "store": "THE BLACK TEA - ĐINH TIÊN HOÀNG",
+  "link": "https://localhost:3000/logo"
+},
+{ "store": "THE BLACK TEA - BÀ HẠT", "link": "https://localhost:3000/logo" },
+{
+  "store": "GÀ LẮC",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/mrbin-ga-ran-khoai-lang-lac-4b790da5636888705067246690.jpg"
+},
+{ "store": "BIDI COFFEE", "link": "https://localhost:3000/logo" },
+{ "store": "QUÁN NGON TRẢNG BÀNG", "link": "https://localhost:3000/logo" },
+{ "store": "T'AROMA COFFEE", "link": "https://localhost:3000/logo" },
+{ "store": "QUÁN ĂN PHÚ GIA", "link": "https://localhost:3000/logo" },
+{ "store": "STEVEN CAFÉ", "link": "https://localhost:3000/logo" },
+{ "store": "STEVEN CAFE'", "link": "https://localhost:3000/logo" },
+{ "store": "NHÀ HÀNG CAO PHONG", "link": "https://localhost:3000/logo" },
+{ "store": "SÀI GÒN SPECIALTY COFFEE", "link": "https://localhost:3000/logo" },
+{ "store": "CỬA HÀNG CÀ PHÊ SÀI GÒN", "link": "https://localhost:3000/logo" },
+{ "store": "BUSAN KOREAN FOOD 2", "link": "https://localhost:3000/logo" },
+{
+  "store": "B.U.S.A.N K.O.R.E.A_F.O.O.D",
+  "link": "https://localhost:3000/logo"
+},
+{ "store": "IHOUSE COFFEE", "link": "https://localhost:3000/logo" },
+{ "store": "BÚN BÒ HUẾ TRƯƠNG ĐỊNH", "link": "https://localhost:3000/logo" },
+{
+  "store": "CƠM CHAY MANI",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/com-chay-mani-706456a636274543506487411.jpg"
+},
+{ "store": "KHUYẾN MÃI THANH LÝ", "link": "https://localhost:3000/logo" },
+{
+  "store": "BÁNH MỲ DONER TRÀNG AN ( TAM GIÁC) 1",
+  "link": "https://localhost:3000/logo"
+},
+{ "store": "LYLAGUA COFFEE", "link": "https://localhost:3000/logo" },
+{
+  "store": "WINGS-TEA.",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/seven-tea-coffee-1966353e637033868241383773.jpg"
+},
+{
+  "store": "SWENSEN",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/kem-swensen-phan-xich-long-5034e916636402247841157602.jpg"
+},
+{ "store": "SW AEON LONG BIÊN", "link": "https://localhost:3000/logo" },
+{ "store": "SW ESTELLA", "link": "https://localhost:3000/logo" },
+{ "store": "SW PHAN XÍCH LONG", "link": "https://localhost:3000/logo" },
+{ "store": "SW NGUYỄN THÁI HỌC", "link": "https://localhost:3000/logo" },
+{ "store": "SW VINCOM THẢO ĐIỀN", "link": "https://localhost:3000/logo" },
+{ "store": "SW VẠN HẠNH MALL", "link": "https://localhost:3000/logo" },
+{ "store": "LẨU SONG VIỆT", "link": "https://localhost:3000/logo" },
+{
+  "store": "CHÈ BƯỞI VĨNH LONG",
+  "link": "http://cdn05.diadiemanuong.com/photo/320x/00013/che_buoi_vinh_long_2_0d097fb8635415452202869241.jpg"
+},
+{ "store": "GÀ RÁN NGƯU MA VƯƠNG 0", "link": "https://localhost:3000/logo" },
+{
+  "store": "HỘ KINH DOANH BÙI DANH NHÂN",
+  "link": "https://localhost:3000/logo"
+},
+{ "store": "QÙA HÀ NỘI QUÁN", "link": "https://localhost:3000/logo" },
+{
+  "store": "QUÀ HÀ NỘI QUÁN",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/qua-ha-noi-quan-3dc20794635941662337794837.jpg"
+},
+{ "store": "QTV CENTER", "link": "https://localhost:3000/logo" },
+{
+  "store": "NƯỚC ÉP TRÁI CÂY HƯƠNG JUICE",
+  "link": "https://localhost:3000/logo"
+},
+{
+  "store": "POTATO CORNER",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/potato-corner-71a515af636707062353828630.jpg"
+},
+{
+  "store": "BURGER KING",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/burger-king-thao-dien-9998937e636348506346556393.jpg"
+},
+{ "store": "FUGASHIN COFFEE", "link": "https://localhost:3000/logo" },
+{
+  "store": "BÚN BÒ HUẾ",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/co-bien-bun-bo-hue-suon-chia-dc8eefa2636985469484161728.jpg"
+},
+{
+  "store": "CỘT ĐIỆN QUÁN",
+  "link": "http://cdn05.diadiemanuong.com/photo/320x/00066/cot_dien_bistro__quan_nhau_7c89c8af635418915312115120.jpg"
+},
+{ "store": "PET'S HOME", "link": "https://localhost:3000/logo" },
+{ "store": "HOA QUẢ PHÚC LINH", "link": "https://localhost:3000/logo" },
+{ "store": "GÀ NƯỚNG Ò Ó O", "link": "https://localhost:3000/logo" },
+{
+  "store": "ĐIỂM HẸN COFFEE",
+  "link": "http://cdn05.diadiemanuong.com/photo/320x/00009/futin_coffee__diem_hen_cafe_sang_01d7dd1c635415391303178194.jpg"
+},
+{
+  "store": "RAINBOW YOGURT",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/diadiemanuong-com-ae5996e9635843530291290738.jpg"
+},
+{ "store": "QSR", "link": "https://localhost:3000/logo" },
+{ "store": "TIMES CITY", "link": "https://localhost:3000/logo" },
+{ "store": "GC GARDEN MALL", "link": "https://localhost:3000/logo" },
+{
+  "store": "VẠN HẠNH MALL",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/miniso-van-hanh-mall-4aa39318637000136191365024.jpg"
+},
+{
+  "store": "DAIRY QUEEN VINCOM TRẦN DUY HƯNG",
+  "link": "https://localhost:3000/logo"
+},
+{ "store": "GC VÕ VĂN NGÂN", "link": "https://localhost:3000/logo" },
+{
+  "store": "DAIRY QUEEN SENSE CITY PHẠM VĂN ĐỒNG",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/dairy-queen-giga-mall-1552893f636969713059745192.jpg"
+},
+{
+  "store": "THE GARDEN",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/the-garden-kitchen-10249244636945751323947066.jpg"
+},
+{
+  "store": "DAIRY QUEEN 545 LÊ VĂN PHẨM",
+  "link": "https://localhost:3000/logo"
+},
+{ "store": "VINCOM BẮC TỪ LIÊM", "link": "https://localhost:3000/logo" },
+{ "store": "AEON MALL LONG BIÊN", "link": "https://localhost:3000/logo" },
+{ "store": "BIG C LONG BIÊN", "link": "https://localhost:3000/logo" },
+{
+  "store": "DAIRY QUEEN VINCOM LIỄU GIAI",
+  "link": "https://localhost:3000/logo"
+},
+{ "store": "BIG C THĂNG LONG", "link": "https://localhost:3000/logo" },
+{ "store": "VINCOM ROYAL CITY", "link": "https://localhost:3000/logo" },
+{ "store": "SENSE CITY BẾN TRE", "link": "https://localhost:3000/logo" },
+{
+  "store": "VIVO CITY",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/meiwei-sc-vivo-city-c74ee09b636673357890713536.jpg"
+},
+{
+  "store": "PHẠM NGỌC THẠCH",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/the-box-market-pham-ngoc-thach-5dabc5dc636975745161225555.jpg"
+},
+{
+  "store": "EMART GÒ VẤP",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/emart-go-vap-36fcf782636812402428207801.jpg"
+},
+{ "store": "SENSE CITY CẦN THƠ", "link": "https://localhost:3000/logo" },
+{ "store": "DAIRY QUEEN ESTELLA PLACE", "link": "https://localhost:3000/logo" },
+{ "store": "GC PHAN XÍCH LONG", "link": "https://localhost:3000/logo" },
+{ "store": "GC\tNGUYỄN ẢNH THỦ", "link": "https://localhost:3000/logo" },
+{ "store": "VINCOM BIÊN HÒA", "link": "https://localhost:3000/logo" },
+{ "store": "VINCOM BÀ TRIỆU", "link": "https://localhost:3000/logo" },
+{ "store": "VINCOM VIỆT TRÌ", "link": "https://localhost:3000/logo" },
+{ "store": "SEXY FOREVER", "link": "https://localhost:3000/logo" },
+{ "store": "TASTER CHOICE", "link": "https://localhost:3000/logo" },
+{ "store": "BM MART", "link": "https://localhost:3000/logo" },
+{
+  "store": "BM'MART TRẦN HƯNG ĐẠO QUẬN 5",
+  "link": "https://localhost:3000/logo"
+},
+{
+  "store": "BM' MART 614 TRẦN HƯNG ĐẠO QUẬN 5",
+  "link": "https://localhost:3000/logo"
+},
+{
+  "store": "BM' MART HỒNG BÀNG QUẬN 11",
+  "link": "https://localhost:3000/logo"
+},
+{ "store": "BM' MART AN BÌNH QUẬN 5", "link": "https://localhost:3000/logo" },
+{
+  "store": "BM' MART NGUYỄN CHÍ THANH QUẬN 5",
+  "link": "https://localhost:3000/logo"
+},
+{
+  "store": "URBAN STATION",
+  "link": "http://cdn01.diadiemanuong.com//ddau/320x/diadiemanuong-com-urban-station-bau-cat2cdfc8b8635928746756171459.jpg"
+},
+{
+  "store": "KFIN COFFEE",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/kfin-coffee-shop-a789ec34636367722639696130.jpg"
+},
+{ "store": "SARIMI", "link": "https://localhost:3000/logo" },
+{ "store": "LUÔN TƯƠI SẠCH", "link": "https://localhost:3000/logo" },
+{
+  "store": "LUÔN TƯƠI SẠCH TRẦN NHẬT DUẬT",
+  "link": "https://localhost:3000/logo"
+},
+{
+  "store": "LUÔN TƯƠI SẠCH TÔN THẤT TÙNG",
+  "link": "https://localhost:3000/logo"
+},
+{ "store": "LUÔN TƯƠI SẠCH HÀNG MUỐI", "link": "https://localhost:3000/logo" },
+{
+  "store": "SƠN KIM",
+  "link": "http://cdn05.diadiemanuong.com/photo/320x/00069/thit_cho_kim_son_3fab79a1635418932953170332.jpg"
+},
+{ "store": "JOCKEY", "link": "https://localhost:3000/logo" },
+{ "store": "DICKIES SGD001", "link": "https://localhost:3000/logo" },
+{ "store": "SONKIM MODE SM04", "link": "https://localhost:3000/logo" },
+{ "store": "SONKIM MODE SM06", "link": "https://localhost:3000/logo" },
+{ "store": "SONKIM MODE HNM004", "link": "https://localhost:3000/logo" },
+{ "store": "SONKIM MODE SM11", "link": "https://localhost:3000/logo" },
+{
+  "store": "CƠM THU",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/diadiemanuong-com-com-tho-chay-nguyen-van-thuf41eb9df635878640353090555.jpg"
+},
+{
+  "store": "ROYAL  TEA 1081 NGUYỄN ANH THỦ",
+  "link": "https://localhost:3000/logo"
+},
+{
+  "store": "BOO COFFEE",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/boo-coffee-tran-hung-dao-fbf28674636891945530748591.jpg"
+},
+{
+  "store": "BOO COFFEE LẦU 8 - 42 NGUYỄN HUỆ",
+  "link": "https://localhost:3000/logo"
+},
+{
+  "store": "BOO COFFEE LẦU 9 - 42 NGUYỄN HUỆ Q1",
+  "link": "https://localhost:3000/logo"
+},
+{
+  "store": "KATINAT",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/diadiemanuong-com-katinat-saigon-kafece8c1b76635913936000647255.jpg"
+},
+{
+  "store": "HEEKCAA",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/heekcaa-nguyen-tri-phuong-d3ec1d4e636816832478889053.jpg"
+},
+{
+  "store": "CHÈ KHÚC BẠCH ĐỖ NGỌC",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/diadiemanuong-com-che-khuc-bach-do-ngoc8c25fbf4635793903753140948.jpg"
+},
+{ "store": "SHE COFFEE", "link": "https://localhost:3000/logo" },
+{
+  "store": "BÁNH CANH CUA NGỌC TRINH",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/diadiemanuong-com-banh-canh-cua-ngoc-trinh-thom-ngon-tung-muong-banh-canhc0fa07ec635849056217475317.jpg"
+},
+{
+  "store": "BÁNH MỲ NGON",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/banh-my-ngon-thy-thy-acd38006635956186184232382.jpg"
+},
+{ "store": "NHÀ HÀNG KEM Ý EISROMA", "link": "https://localhost:3000/logo" },
+{ "store": "ĐẠI LÝ GẠO TÒA YẾN", "link": "https://localhost:3000/logo" },
+{ "store": "LAPUSA COFFEE", "link": "https://localhost:3000/logo" },
+{ "store": "CỬA HÀNG ANH HIỆP", "link": "https://localhost:3000/logo" },
+{ "store": "CHÈ SẦU LIÊN", "link": "https://localhost:3000/logo" },
+{
+  "store": "KINGDOM CLUB",
+  "link": "http://cdn05.diadiemanuong.com/photo/320x/00002/kingdom_beer_club_e768601f635415315079139913.jpg"
+},
+{ "store": "NHÀ THUỐC LINH AN", "link": "https://localhost:3000/logo" },
+{ "store": "GÀ PHÊ", "link": "https://localhost:3000/logo" },
+{ "store": "TAKE EAT EASY", "link": "https://localhost:3000/logo" },
+{
+  "store": "QUÁN ĂN RẤT HUẾ",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/diadiemanuong-com-rat-hue-quan-an-gia-dinh157d79cf635682476703568580.jpg"
+},
+{
+  "store": "CHÈ NGON MẸ NHÍM",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/che-ngon-me-nhim-ban-co-7f2986b636725270480097592.jpg"
+},
+{ "store": "GOKY 45 NGUYỄN CHÍ THANH", "link": "https://localhost:3000/logo" },
+{
+  "store": "VASCARA",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/cua-hang-vascara-cmt8-36116812636939508846411703.jpg"
+},
+{
+  "store": "QUÁN SÀNH",
+  "link": "http://cdn05.diadiemanuong.com/photo/320x/00065/quan_sanh__cafe__kem_36f01a3d635418907474772776.jpg"
+},
+{ "store": "COFFEE V - ĐỨC", "link": "https://localhost:3000/logo" },
+{ "store": "4 SEASONS CHÈ TRÀ KEM", "link": "https://localhost:3000/logo" },
+{ "store": "SÓI BIỂN", "link": "https://localhost:3000/logo" },
+{ "store": "M.R TO GARDEN", "link": "https://localhost:3000/logo" },
+{ "store": "BEARD PAPA'S AEON MALL", "link": "https://localhost:3000/logo" },
+{ "store": "BEARD PAPA'S ROYAL", "link": "https://localhost:3000/logo" },
+{ "store": "BEARD PAPA'S HÀNG BÔNG", "link": "https://localhost:3000/logo" },
+{ "store": "BEARD NGUYỄN DU", "link": "https://localhost:3000/logo" },
+{
+  "store": "BEARD PAPA'S",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/diadiemanuong-com-beard-papas-vincom-mega-mall-thao-dien79a2f2c5635888792908788096.jpg"
+},
+{
+  "store": "BEARD PAPA'S TRẦN DUY HƯNG",
+  "link": "https://localhost:3000/logo"
+},
+{ "store": "BEARD PAPA'S ĐỘI CẤN", "link": "https://localhost:3000/logo" },
+{ "store": "BEARD NGUYỄN LƯƠNG BẰNG", "link": "https://localhost:3000/logo" },
+{ "store": "BEARD PAPA'S LÊ ĐẠI HÀNH", "link": "https://localhost:3000/logo" },
+{
+  "store": "HẬU GIANG-QUẬN 6",
+  "link": "http://cdn01.diadiemanuong.com//ddau/320x/banh-khot-di-nhiptp-hcm-f0d1c83a636975633940535667.jpg"
+},
+{
+  "store": "LẨU CÁ KÈO VÀ BÁNH TRÁNG TRẢNG BÀNG",
+  "link": "https://localhost:3000/logo"
+},
+{ "store": "SINH TỐ MAI HƯƠNG QUẦY 6", "link": "https://localhost:3000/logo" },
+{
+  "store": "MỘC DELI",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/moc-deli-coffee-a284ce2f636620005619068610.jpg"
+},
+{
+  "store": "CÔNG TY TNHH ĐẦU TƯ THƯƠNG MẠI DỊCH VỤ THÀNH NGUYỄN",
+  "link": "https://localhost:3000/logo"
+},
+{ "store": "29 LÝ THÁNH TÔN", "link": "https://localhost:3000/logo" },
+{ "store": "PHAN VĂN TRỊ", "link": "https://localhost:3000/logo" },
+{ "store": "58 ĐINH TIÊN HOÀNG", "link": "https://localhost:3000/logo" },
+{ "store": "837 QUANG TRUNG", "link": "https://localhost:3000/logo" },
+{
+  "store": "PHAN THIẾT",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/banh-trang-mam-ruoc-nuong-phan-thiet-nguyen-tri-phuong-eb595a5f636885281566773422.jpg"
+},
+{
+  "store": "1 QUANG TRUNG",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/hutong-hotpot-paradise-quang-trung-398c923e636626789388023576.jpg"
+},
+{ "store": "511 QUANG TRUNG", "link": "https://localhost:3000/logo" },
+{ "store": "ĐÀ LẠT", "link": "https://localhost:3000/logo" },
+{
+  "store": "PHẠM VĂN ĐỒNG",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/quan-lau-bo-lagi-145k-pham-van-dong-ccb9574c637002813313248734.jpg"
+},
+{
+  "store": "CONCEPT",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/mam-concept-4841124b636803774270186007.jpg"
+},
+{
+  "store": "CONCEPT NGUYỄN TRÃI CẦN THƠ",
+  "link": "https://localhost:3000/logo"
+},
+{ "store": "CONCEPT VẠNH HẠNH MALL", "link": "https://localhost:3000/logo" },
+{ "store": "CONCEPT NGUYỄN TRÃI", "link": "https://localhost:3000/logo" },
+{ "store": "CONCEPT CRESCENT MALL", "link": "https://localhost:3000/logo" },
+{ "store": "CONCEPT HAI BÀ TRƯNG", "link": "https://localhost:3000/logo" },
+{
+  "store": "CONCEPT HƯNG PHÚC 1 CẦN THƠ",
+  "link": "https://localhost:3000/logo"
+},
+{ "store": "NINOMAXX BÀ TRIỆU HUẾ", "link": "https://localhost:3000/logo" },
+{
+  "store": "CONCEPT CÁCH MẠNG THÁNG 8 HCM",
+  "link": "https://localhost:3000/logo"
+},
+{ "store": "CONCEPT VIVOCITY 1058", "link": "https://localhost:3000/logo" },
+{ "store": "CONCEPT LŨY BÁN BÍCH", "link": "https://localhost:3000/logo" },
+{ "store": "NINOMAXX HÙNG VƯƠNG HUẾ", "link": "https://localhost:3000/logo" },
+{ "store": "CONCEPT HẬU GIANG", "link": "https://localhost:3000/logo" },
+{ "store": "WAYNE", "link": "https://localhost:3000/logo" },
+{ "store": "CAFE PHIM JONES", "link": "https://localhost:3000/logo" },
+{
+  "store": "YELLOW CAB",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/yellow-cab-pizza-co-f7e49f87636579262556132332.jpg"
+},
+{ "store": "HNOSS", "link": "https://localhost:3000/logo" },
+{
+  "store": "CHÂN GÀ NƯỚNG",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/chan-ga-canh-ga-nuong-chi-tui-f6ed094d636929928749284182.jpg"
+},
+{ "store": "LAGRUPA STEAK HOUSE", "link": "https://localhost:3000/logo" },
+{ "store": "FUJI FOOD", "link": "https://localhost:3000/logo" },
+{
+  "store": "BBQ CHICKEN",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/bbq-chicken-premium-1b76ee18636734819877937931.jpg"
+},
+{
+  "store": "CÔNG TY TNHH TM DV BÁCH MỘC",
+  "link": "https://localhost:3000/logo"
+},
+{ "store": "COCO FRESH", "link": "https://localhost:3000/logo" },
+{ "store": "COFFEINE", "link": "https://localhost:3000/logo" },
+{
+  "store": "COFFEE NÚI",
+  "link": "http://cdn05.diadiemanuong.com/photo/320x/00075/47_coffee__nui_thanh_e098fd97635418968706880225.jpg"
+},
+{ "store": "PARIS LAKE VIEW", "link": "https://localhost:3000/logo" },
+{ "store": "BAMI BREAD", "link": "https://localhost:3000/logo" },
+{
+  "store": "AKA HOUSE",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/aka-house-hoa-binh-7e4d3a2b636874826482287248.jpg"
+},
+{
+  "store": "AKA TÂN SƠN NHÌ",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/aka-house-tan-son-nhi-431c358c636675944730020128.jpg"
+},
+{ "store": "HOLY CRAB SENSE CITY", "link": "https://localhost:3000/logo" },
+{
+  "store": "AKA HOUSE D2",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/the-gom-house-nguyen-tri-phuong-bbdb3d3b637003531742596411.jpg"
+},
+{ "store": "HOLY CRAB PHAN XÍCH LONG", "link": "https://localhost:3000/logo" },
+{ "store": "HOLY CRAB ESTELLA PLACE", "link": "https://localhost:3000/logo" },
+{
+  "store": "FLAT WHITE",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/flat-white-quan-voi-ca-phe-do-uong-chat-luong-uong-la-me-lai-co-ao-thuat-phu-phe-thich-qua-xa-60dae151636108240361828781.jpg"
+},
+{
+  "store": "HÒA BÌNH-  11",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/mit-ti-hon-dam-sen-7eecce9e637012057687957972.jpg"
+},
+{
+  "store": "BÂNG KHUÂNG CAFE",
+  "link": "http://cdn05.diadiemanuong.com/photo/320x/00002/bang_khuang_cafe_9b20550a635415316392998850.jpg"
+},
+{
+  "store": "ĐẶC SẢN CHÈ",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/dac-san-che-hue-20-dang-van-ngu-qphu-nhuan-8df79402636057447065112590.jpg"
+},
+{
+  "store": "BUMBA",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/tra-sua-bumba-van-hanh-mall-cc0656f4636807396331658249.jpg"
+},
+{ "store": "CAFÉ LÊ GIA", "link": "https://localhost:3000/logo" },
+{
+  "store": "KARAOKE ĐỒNG ĐEN",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/karaoke-icool-dong-den-86d659ef636698560042359120.jpg"
+},
+{ "store": "THINK NATURE", "link": "https://localhost:3000/logo" },
+{
+  "store": "CÔNG TY TNHH NANUM VIỆT NAM",
+  "link": "https://localhost:3000/logo"
+},
+{ "store": "TN VINCOM TRẦN DUY HƯNG", "link": "https://localhost:3000/logo" },
+{
+  "store": "GÀ TA QUÊ NHÀ",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/ga-ta-que-nha-quan-3-7fe3dd9b636685444690255230.jpg"
+},
+{
+  "store": "GÀ TA QUÊ NHÀ",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/ga-ta-que-nha-quan-3-7fe3dd9b636685444690255230.jpg"
+},
+{ "store": "GS 25", "link": "https://localhost:3000/logo" },
+{ "store": "TRÀ SỮA VONE", "link": "https://localhost:3000/logo" },
+{ "store": "CUTIIE HOUSE", "link": "https://localhost:3000/logo" },
+{
+  "store": "BÚN SƯỜN CHUA",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/bun-suon-chua-an-vat-a-quan-d1adbcf9637019077301811518.jpg"
+},
+{ "store": "BÚN SƯỜN CHUA 1", "link": "https://localhost:3000/logo" },
+{ "store": "RIRO MILKTEA", "link": "https://localhost:3000/logo" },
+{ "store": "TICOS COFFEE", "link": "https://localhost:3000/logo" },
+{
+  "store": "MÌ Ý DOUBLE B",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/golux-a4169a4b636111741628342568.jpg"
+},
+{
+  "store": "QUÁN CÀ PHÊ THE HIDDEN ELEPHANT",
+  "link": "https://localhost:3000/logo"
+},
+{
+  "store": "QUÁN CÀ PHÊ  HIDDEN ELEPHANT",
+  "link": "https://localhost:3000/logo"
+},
+{ "store": "THE TOWN COFFEE", "link": "https://localhost:3000/logo" },
+{
+  "store": "NANA CAFE",
+  "link": "http://cdn01.diadiemanuong.com//ddau/320x/diadiemanuong-com-nana-cafef8588898635884450410452064.jpg"
+},
+{ "store": "TIỆM BÁNH IT", "link": "https://localhost:3000/logo" },
+{ "store": "TIEMBANHIT115", "link": "https://localhost:3000/logo" },
+{ "store": "TIEMBANHIT66", "link": "https://localhost:3000/logo" },
+{
+  "store": "GUARDIAN",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/guardian-duong-32-3e0577a7636566250760497022.jpg"
+},
+{ "store": "MOCHI JAPAN", "link": "https://localhost:3000/logo" },
+{ "store": "ĐẶC SẢN LƯƠN ĐỒNG", "link": "https://localhost:3000/logo" },
+{
+  "store": "CHEERS",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/sieu-thi-tien-loi-cheers-ac0154be636994098209187835.jpg"
+},
+{ "store": "SHUSHI GARDEN", "link": "https://localhost:3000/logo" },
+{
+  "store": "HỘ KINH DOANH TRƯƠNG ĐỨC TÙNG",
+  "link": "https://localhost:3000/logo"
+},
+{
+  "store": "CÔNG TY TNHH THIẾT BỊ NHA KHOA HẢI ÂU",
+  "link": "https://localhost:3000/logo"
+},
+{ "store": "NHA KHOA HẢI ÂU", "link": "https://localhost:3000/logo" },
+{ "store": "CATINA BAGEL", "link": "https://localhost:3000/logo" },
+{
+  "store": "VIKING STEAK",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/viking-steak-cup-quan-10-97d5dadf636878969113249822.jpg"
+},
+{
+  "store": "MARC & JEN",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/marcjen-7d520338636742632336316477.jpg"
+},
+{
+  "store": "THE SUMMER",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/the-never-ending-summer-milktea-9e12b0b636757969629733102.jpg"
+},
+{ "store": "MOCKING BIRD CAFE", "link": "https://localhost:3000/logo" },
+{ "store": "PHỞ KCC NGUYÊN HỒNG", "link": "https://localhost:3000/logo" },
+{ "store": "CÔNG TY TNHH TÂY CAFE", "link": "https://localhost:3000/logo" },
+{
+  "store": "TÂY CAFE",
+  "link": "http://cdn05.diadiemanuong.com/photo/320x/00073/le_mai_cafe__trung_my_tay_2a_ff5cd4c1635418958288519282.jpg"
+},
+{
+  "store": "POPEYES",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/popeyes-thong-nhat-go-vap-b440c7f8636964093297817911.jpg"
+},
+{ "store": "TIỆM BÁNH CHEZ MOI", "link": "https://localhost:3000/logo" },
+{ "store": "KANPAI PHAN ĐÌNH GIÓT", "link": "https://localhost:3000/logo" },
+{ "store": "MANEKI DELI VINCOM QUẬN 1", "link": "https://localhost:3000/logo" },
+{ "store": "MANEKI DELI VINCOM PNT", "link": "https://localhost:3000/logo" },
+{ "store": "MANEKI DELI THỦ ĐỨC", "link": "https://localhost:3000/logo" },
+{ "store": "MANEKI BIÊN HOÀ", "link": "https://localhost:3000/logo" },
+{ "store": "MANEKI DELI VIVO QUẬN 7", "link": "https://localhost:3000/logo" },
+{ "store": "HUTONG PHAN XÍCH LONG", "link": "https://localhost:3000/logo" },
+{ "store": "DARUMA IPH XUÂN THỦY", "link": "https://localhost:3000/logo" },
+{
+  "store": "COWBOY JACK'S HOÀNG ĐẠO THÚY",
+  "link": "https://localhost:3000/logo"
+},
+{ "store": "ICOOK HOÀNG NGỌC PHÁCH", "link": "https://localhost:3000/logo" },
+{ "store": "MANWAH THÁI HÀ", "link": "https://localhost:3000/logo" },
+{ "store": "DARUMA MIPEC TÂY SƠN", "link": "https://localhost:3000/logo" },
+{ "store": "ASHIMA GIANG VĂN MINH", "link": "https://localhost:3000/logo" },
+{ "store": "ASHIMA TRIỆU VIỆT VƯƠNG", "link": "https://localhost:3000/logo" },
+{ "store": "SUMO VẠN HẠNH MALL", "link": "https://localhost:3000/logo" },
+{
+  "store": "ASHIMA NGUYỄN ĐÌNH CHIỂU",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/lau-nam-ashima-nguyen-dinh-chieu-c43fa48e636289773267366668.jpg"
+},
+{ "store": "HUTONG PHÓ ĐỨC CHÍNH", "link": "https://localhost:3000/logo" },
+{ "store": "MANWAH LIỄU GIAI", "link": "https://localhost:3000/logo" },
+{ "store": "DARUMA GIẢNG VÕ", "link": "https://localhost:3000/logo" },
+{
+  "store": "COWBOY JACK'S AEON MALL LONG BIÊN",
+  "link": "https://localhost:3000/logo"
+},
+{ "store": "YUTANG VẠN HẠNH MALL", "link": "https://localhost:3000/logo" },
+{ "store": "YUTANG BIG C THĂNG LONG", "link": "https://localhost:3000/logo" },
+{ "store": "HUTONG ROYAL CITY", "link": "https://localhost:3000/logo" },
+{ "store": "HUTONG AEON BÌNH TÂN", "link": "https://localhost:3000/logo" },
+{
+  "store": "ASHIMA TÚ XƯƠNG",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/diadiemanuong-com-lau-nam-ashima-tu-xuong9f0a6fa6635850937413510060.jpg"
+},
+{ "store": "KPUB ĐÔNG ANH", "link": "https://localhost:3000/logo" },
+{ "store": "K-PUB HOA ĐÀO", "link": "https://localhost:3000/logo" },
+{
+  "store": "CRYSTAL JADE KITCHEN SAIGON CENTRE",
+  "link": "https://localhost:3000/logo"
+},
+{ "store": "HUTONG THỦ ĐỨC", "link": "https://localhost:3000/logo" },
+{ "store": "VUVUZELA HỒ GƯƠM PLAZA", "link": "https://localhost:3000/logo" },
+{ "store": "HUTONG VẠN HẠNH MALL", "link": "https://localhost:3000/logo" },
+{ "store": "HUTONG LÊ QUÝ ĐÔN", "link": "https://localhost:3000/logo" },
+{ "store": "OSAKA AEON BÌNH TÂN", "link": "https://localhost:3000/logo" },
+{
+  "store": "COWBOY JACK'S MIPEC TÂY SƠN",
+  "link": "https://localhost:3000/logo"
+},
+{ "store": "PHỐ 37 SÀI GÒN CENTRE", "link": "https://localhost:3000/logo" },
+{ "store": "SHOGUN PHẠM NGỌC THẠCH", "link": "https://localhost:3000/logo" },
+{
+  "store": "MANWAH HOÀNG VĂN THỤ",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/manwah-taiwanese-hotpot-gala-center-hoang-van-thu-146d6125636713273647074095.jpg"
+},
+{ "store": "KPUB ROYAL CITY", "link": "https://localhost:3000/logo" },
+{ "store": "VUVUZELA THÁI HÀ", "link": "https://localhost:3000/logo" },
+{
+  "store": "DARUMA TRUNG HÒA NHÂN CHÍNH",
+  "link": "https://localhost:3000/logo"
+},
+{
+  "store": "CRYSTAL JADE KITCHEN VẠN HẠNH MALL",
+  "link": "https://localhost:3000/logo"
+},
+{ "store": "HUTONG NGUYỄN KHANG", "link": "https://localhost:3000/logo" },
+{ "store": "ASHIMA HOÀNG ĐẠO THÚY", "link": "https://localhost:3000/logo" },
+{
+  "store": "COWBOY JACK'S NGUYỄN CHÍ THANH",
+  "link": "https://localhost:3000/logo"
+},
+{
+  "store": "PHỐ 37 TÂN SƠN NHẤT",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/pho-ngon-37-san-bay-tan-son-nhat-f55f92a9636161039740848569.jpg"
+},
+{ "store": "YUTANG GIGA MALL", "link": "https://localhost:3000/logo" },
+{ "store": "MANWAH GIGA MALL", "link": "https://localhost:3000/logo" },
+{
+  "store": "CRYSTAL JADE KITCHEN AEON MALL BÌNH TÂN",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/crystal-jade-kitchen-aeon-mall-binh-tan-952cf7d9636054002385265513.jpg"
+},
+{ "store": "ASHIMA ĐIỆN BIÊN PHỦ", "link": "https://localhost:3000/logo" },
+{
+  "store": "MANWAH CENTER POINT LÊ VĂN LƯƠNG",
+  "link": "https://localhost:3000/logo"
+},
+{
+  "store": "37 STREET INDOCHINA XUÂN THỦY",
+  "link": "https://localhost:3000/logo"
+},
+{ "store": "K-PUB AEON MALL BÌNH TÂN", "link": "https://localhost:3000/logo" },
+{ "store": "SUMO BIGC ÂU CƠ", "link": "https://localhost:3000/logo" },
+{ "store": "SUMO TRUNG YÊN", "link": "https://localhost:3000/logo" },
+{ "store": "COWBOY JACK'S TRÀNG THI", "link": "https://localhost:3000/logo" },
+{ "store": "DARUMA NGUYỄN CHÍ THANH", "link": "https://localhost:3000/logo" },
+{ "store": "MANWAH LÊ VĂN VIỆT", "link": "https://localhost:3000/logo" },
+{
+  "store": "ASHIMA XUÂN THỦY",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/ashima-xuan-thuy-5eadcba8636449699339363664.jpg"
+},
+{ "store": "HUTONG PHẠM NGỌC THẠCH", "link": "https://localhost:3000/logo" },
+{ "store": "MANWAH CAO THẮNG", "link": "https://localhost:3000/logo" },
+{ "store": "HUTONG GIẢNG VÕ", "link": "https://localhost:3000/logo" },
+{
+  "store": "VUVUZELA NGUYỄN TRÃI",
+  "link": "http://cdn01.diadiemanuong.com/photo/320x/00045/vuvuzela_beer_club__nguyen_trai_8aed1b09635417994851871678.jpg"
+},
+{ "store": "K-PUB TIME CITY", "link": "https://localhost:3000/logo" },
+{
+  "store": "COWBOY JACK'S SÀI GÒN CENTRE",
+  "link": "https://localhost:3000/logo"
+},
+{ "store": "HUTONG TIME CITY", "link": "https://localhost:3000/logo" },
+{
+  "store": "HUTONG QUANG TRUNG",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/hutong-hotpot-paradise-quang-trung-398c923e636626789388023576.jpg"
+},
+{ "store": "OSAKA SÀI GÒN CENTRE", "link": "https://localhost:3000/logo" },
+{ "store": "HUTONG BIG C THĂNG LONG", "link": "https://localhost:3000/logo" },
+{
+  "store": "BA CON CỪU CAO THẮNG",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/ba-con-bo-de8ae07c636426434236647435.jpg"
+},
+{ "store": "SHOGUN DỊCH VỌNG HẬU", "link": "https://localhost:3000/logo" },
+{ "store": "MANWAH VẠN PHÚC", "link": "https://localhost:3000/logo" },
+{
+  "store": "VUVUZELA TRƯỜNG SƠN",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/diadiemanuong-com-vuvuzela-beer-club-truong-son115a509c635665244212824459.jpg"
+},
+{
+  "store": "ASHIMA NGUYỄN TRÃI",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/lau-nam-ashima-nguyen-trai-6c8e2585636519516849346527.jpg"
+},
+{ "store": "HUTONG TRIỆU VIÊT VƯƠNG", "link": "https://localhost:3000/logo" },
+{ "store": "MANWAH ESTELLA PALACE", "link": "https://localhost:3000/logo" },
+{
+  "store": "VUVUZELA TRUNG HÒA NHÂN CHÍNH",
+  "link": "https://localhost:3000/logo"
+},
+{ "store": "ASHIMA HUỲNH THÚC KHÁNG", "link": "https://localhost:3000/logo" },
+{ "store": "OSAKA VẠN HẠNH MALL", "link": "https://localhost:3000/logo" },
+{ "store": "HUTONG VẠN PHÚC", "link": "https://localhost:3000/logo" },
+{ "store": "MANWAH NGUYỄN HOÀNG", "link": "https://localhost:3000/logo" },
+{ "store": "BIG C BÌNH DƯƠNG", "link": "https://localhost:3000/logo" },
+{ "store": "PH VINCOM LONG AN", "link": "https://localhost:3000/logo" },
+{ "store": "PIZZAHUT NGUYỄN TRÃI", "link": "https://localhost:3000/logo" },
+{ "store": "PH NGHI TÀM", "link": "https://localhost:3000/logo" },
+{
+  "store": "PHAN CHU TRINH",
+  "link": "http://cdn01.diadiemanuong.com//ddau/320x/bia-set-minh-binh-dan-quantp-hcm-6ee99d1e636312305976281789.jpg"
+},
+{
+  "store": "TRÀ SỮA HOT & COLD - 292 NGUYỄN SƠN",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/hot-cold-tra-sua-xien-que-su-van-hanh-c9b496f7636761847484557693.jpg"
+},
+{
+  "store": "TRÀ SỮA HOT & COLD - GIGAMALL",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/hot-cold-tra-sua-xien-que-su-van-hanh-c9b496f7636761847484557693.jpg"
+},
+{ "store": "S42 - D2", "link": "https://localhost:3000/logo" },
+{ "store": "S120 - 521 HOÀNG VĂN THỤ", "link": "https://localhost:3000/logo" },
+{ "store": "S24 - NGUYỄN KIỆM", "link": "https://localhost:3000/logo" },
+{ "store": "S68 - HOÀNG HOA THÁM", "link": "https://localhost:3000/logo" },
+{ "store": "S13 - HỒNG HÀ", "link": "https://localhost:3000/logo" },
+{ "store": "S35 - DƯƠNG ĐÌNH NGHỆ", "link": "https://localhost:3000/logo" },
+{ "store": "S124- PHÚ MỸ HƯNG", "link": "https://localhost:3000/logo" },
+{ "store": "S100 - ĐẠI HỌC HỒNG BÀNG", "link": "https://localhost:3000/logo" },
+{ "store": "S34 - NGUYỄN THIỆN THUẬT", "link": "https://localhost:3000/logo" },
+{ "store": "S19 - ĐẶNG VĂN NGỮ", "link": "https://localhost:3000/logo" },
+{ "store": "S105 - THÀNH THÁI", "link": "https://localhost:3000/logo" },
+{ "store": "S112 - NEW CITY THỦ THIÊM", "link": "https://localhost:3000/logo" },
+{ "store": "S14 - HÒA HƯNG", "link": "https://localhost:3000/logo" },
+{ "store": "S102 - VẠN KIẾP 2", "link": "https://localhost:3000/logo" },
+{ "store": "S21 - PHẠM VIẾT CHÁNH", "link": "https://localhost:3000/logo" },
+{ "store": "S90 - UNG VĂN KHIÊM", "link": "https://localhost:3000/logo" },
+{ "store": "S92 - THÍCH QUẢNG ĐỨC", "link": "https://localhost:3000/logo" },
+{ "store": "S36 - CÁCH MẠNG THÁNG 8", "link": "https://localhost:3000/logo" },
+{ "store": "S27 - LÊ LỢI", "link": "https://localhost:3000/logo" },
+{ "store": "S81 - BÀNH VĂN TRÂN", "link": "https://localhost:3000/logo" },
+{ "store": "S54 - LÊ QUANG ĐỊNH", "link": "https://localhost:3000/logo" },
+{ "store": "S41 - THĂNG LONG", "link": "https://localhost:3000/logo" },
+{ "store": "S39 - BÙI THỊ XUÂN", "link": "https://localhost:3000/logo" },
+{
+  "store": "S77 - ĐẠI HỌC QUỐC GIA KHU B",
+  "link": "https://localhost:3000/logo"
+},
+{ "store": "S144 MAI THỊ LỰU", "link": "https://localhost:3000/logo" },
+{ "store": "S62 - VŨ TÙNG", "link": "https://localhost:3000/logo" },
+{ "store": "S6 - BẠCH ĐẰNG", "link": "https://localhost:3000/logo" },
+{ "store": "S63 - SƯ VẠN HẠNH", "link": "https://localhost:3000/logo" },
+{ "store": "S31 - CỐNG QUỲNH", "link": "https://localhost:3000/logo" },
+{
+  "store": "S46 -NGUYỄN BIỂU -  PHAN VĂN TRỊ",
+  "link": "https://localhost:3000/logo"
+},
+{ "store": "S18 - PHẠM VIẾT CHÁNH", "link": "https://localhost:3000/logo" },
+{ "store": "S29 - TRƯƠNG CÔNG ĐỊNH", "link": "https://localhost:3000/logo" },
+{ "store": "S45 - PHẠM VĂN HAI", "link": "https://localhost:3000/logo" },
+{ "store": "S99 - BÌNH GIÃ", "link": "https://localhost:3000/logo" },
+{ "store": "S136 - HỒ VĂN HUÊ", "link": "https://localhost:3000/logo" },
+{ "store": "S30 - VŨ HUY TẤN", "link": "https://localhost:3000/logo" },
+{ "store": "S37 - NGUYỄN TRỌNG TUYỂN", "link": "https://localhost:3000/logo" },
+{ "store": "S15 - HOÀNG HOA THÁM", "link": "https://localhost:3000/logo" },
+{ "store": "S126- NGUYỄN THÁI BÌNH 3", "link": "https://localhost:3000/logo" },
+{ "store": "S8 - 77 TRẦN THIỆN CHÁNH", "link": "https://localhost:3000/logo" },
+{ "store": "S59 - ĐƯỜNG SỐ 5", "link": "https://localhost:3000/logo" },
+{ "store": "S115 - HƯNG GIA", "link": "https://localhost:3000/logo" },
+{ "store": "S110 - LÝ TỰ TRỌNG", "link": "https://localhost:3000/logo" },
+{ "store": "S43 - TRẦN KHẮC CHÂN", "link": "https://localhost:3000/logo" },
+{ "store": "S104 - HUTECH 2", "link": "https://localhost:3000/logo" },
+{ "store": "S73 - ĐINH BỘ LĨNH", "link": "https://localhost:3000/logo" },
+{
+  "store": "S88 - ĐẠI HỌC SƯ PHẠM KĨ THUẬT",
+  "link": "https://localhost:3000/logo"
+},
+{ "store": "S138 - THE SUN AVENUE 2", "link": "https://localhost:3000/logo" },
+{ "store": "S141 JAMILA", "link": "https://localhost:3000/logo" },
+{ "store": "S113 - NGUYỄN CẢNH CHÂN", "link": "https://localhost:3000/logo" },
+{ "store": "S123 - PHÙNG VĂN CUNG", "link": "https://localhost:3000/logo" },
+{ "store": "S131 - VINHOME", "link": "https://localhost:3000/logo" },
+{ "store": "S82 - MASTERI", "link": "https://localhost:3000/logo" },
+{ "store": "S121 - ĐỖ QUANG ĐẦU", "link": "https://localhost:3000/logo" },
+{ "store": "S127 - PHÚ CHÂU", "link": "https://localhost:3000/logo" },
+{ "store": "S57 - XÓM CHIẾU", "link": "https://localhost:3000/logo" },
+{ "store": "S137 - THE SUN AVENUE", "link": "https://localhost:3000/logo" },
+{ "store": "S26 - NGÔ TẤT TỐ", "link": "https://localhost:3000/logo" },
+{ "store": "S111 - TRẦN TRỌNG CUNG", "link": "https://localhost:3000/logo" },
+{ "store": "S23 - MẠC THỊ BƯỞI", "link": "https://localhost:3000/logo" },
+{ "store": "S76 - NGUYỄN THIỆN THUẬT", "link": "https://localhost:3000/logo" },
+{ "store": "S118 - PHỔ QUANG 2", "link": "https://localhost:3000/logo" },
+{ "store": "S48 - TÂN QUÝ", "link": "https://localhost:3000/logo" },
+{ "store": "S139 MASTERI AN PHÚ", "link": "https://localhost:3000/logo" },
+{ "store": "S71 - VŨ TÔNG PHAN", "link": "https://localhost:3000/logo" },
+{ "store": "S33 - TÂN SƠN NHÌ", "link": "https://localhost:3000/logo" },
+{ "store": "S66 - ĐINH TIÊN HOÀNG", "link": "https://localhost:3000/logo" },
+{ "store": "S129 - BA THÁNG HAI", "link": "https://localhost:3000/logo" },
+{ "store": "S96 - D5", "link": "https://localhost:3000/logo" },
+{ "store": "S61 - TRẦN QUỐC TOẢN", "link": "https://localhost:3000/logo" },
+{ "store": "S11 - CX ĐÔ THÀNH", "link": "https://localhost:3000/logo" },
+{ "store": "S130 - CHƯƠNG DƯƠNG", "link": "https://localhost:3000/logo" },
+{ "store": "S114 - PHỔ QUANG", "link": "https://localhost:3000/logo" },
+{ "store": "S50 -  ĐẠI HỌC QUỐC GIA", "link": "https://localhost:3000/logo" },
+{ "store": "S60 - D1", "link": "https://localhost:3000/logo" },
+{ "store": "S135 - PHẠM NGŨ LÃO", "link": "https://localhost:3000/logo" },
+{ "store": "S107 - SUỐI TIÊN", "link": "https://localhost:3000/logo" },
+{ "store": "S119 - NGUYỄN THÁI BÌNH", "link": "https://localhost:3000/logo" },
+{ "store": "S22 - HẬU GIANG", "link": "https://localhost:3000/logo" },
+{ "store": "S3 - LAM SƠN", "link": "https://localhost:3000/logo" },
+{ "store": "S64 - TRẦN QUÝ CÁP", "link": "https://localhost:3000/logo" },
+{
+  "store": "S5 - NGUYỄN HỒNG ĐÀO",
+  "link": "http://cdn05.diadiemanuong.com/photo/320x/00055/quan_com_hanh__nguyen_hong_dao_382b634c635418834050553027.jpg"
+},
+{ "store": "S116 - NGUYỄN VĂN NGUYỄN", "link": "https://localhost:3000/logo" },
+{ "store": "S10 - NGUYỄN THƯỢNG HIỀN", "link": "https://localhost:3000/logo" },
+{ "store": "S95 - CAO THẮNG", "link": "https://localhost:3000/logo" },
+{ "store": "S128 - LÊ THÁNH TÔN", "link": "https://localhost:3000/logo" },
+{ "store": "S32 - ĐÀO DUY TỪ", "link": "https://localhost:3000/logo" },
+{ "store": "S91 - NGUYỄN TRỌNG TUYỂN", "link": "https://localhost:3000/logo" },
+{ "store": "S80 - NGUYỄN LÂM", "link": "https://localhost:3000/logo" },
+{ "store": "S78 - TÂN PHƯỚC", "link": "https://localhost:3000/logo" },
+{ "store": "S122 - HOÀNG HOA THÁM 3", "link": "https://localhost:3000/logo" },
+{ "store": "S28 - BẠCH ĐẰNG", "link": "https://localhost:3000/logo" },
+{ "store": "S125- LÊ VĂN SỸ", "link": "https://localhost:3000/logo" },
+{ "store": "S89 - HOÀNG DIỆU", "link": "https://localhost:3000/logo" },
+{ "store": "S142 PEGASUITE", "link": "https://localhost:3000/logo" },
+{ "store": "S25 - NGUYỄN THÁI BÌNH", "link": "https://localhost:3000/logo" },
+{ "store": "S4 - D2", "link": "https://localhost:3000/logo" },
+{ "store": "S134_NGUYỄN HUỆ", "link": "https://localhost:3000/logo" },
+{ "store": "S69 -  VẠN KIẾP", "link": "https://localhost:3000/logo" },
+{ "store": "S86 - ÂU CƠ", "link": "https://localhost:3000/logo" },
+{ "store": "S9 - TRẦN DOÃN KHANH", "link": "https://localhost:3000/logo" },
+{ "store": "S49 - HOA SỨ", "link": "https://localhost:3000/logo" },
+{ "store": "S74 - BÙI ĐÌNH TÚY", "link": "https://localhost:3000/logo" },
+{ "store": "S132 - ĐẢO KIM CƯƠNG", "link": "https://localhost:3000/logo" },
+{ "store": "S20 - ĐIỆN BIÊN PHỦ", "link": "https://localhost:3000/logo" },
+{ "store": "S58 - NGUYỄN DU", "link": "https://localhost:3000/logo" },
+{ "store": "S38 - HOA LAN", "link": "https://localhost:3000/logo" },
+{ "store": "S143 HUỲNH THÚC KHÁNG", "link": "https://localhost:3000/logo" },
+{ "store": "S101 - PHÚ THỌ", "link": "https://localhost:3000/logo" },
+{ "store": "S103 - NGUYỄN CỬU VÂN", "link": "https://localhost:3000/logo" },
+{ "store": "S133 - BÙI VIỆN", "link": "https://localhost:3000/logo" },
+{ "store": "S40 - VƯỜN LÀI", "link": "https://localhost:3000/logo" },
+{ "store": "S94 - SKY GARDEN", "link": "https://localhost:3000/logo" },
+{ "store": "S47 - NAM KỲ KHỞI NGHĨA", "link": "https://localhost:3000/logo" },
+{
+  "store": "S85 - BVNĐ1 (KHU NGOẠI TRÚ)",
+  "link": "https://localhost:3000/logo"
+},
+{ "store": "S75 - TRẦN NHÂN TÔN", "link": "https://localhost:3000/logo" },
+{ "store": "S53 - TRẦN ĐÌNH XU", "link": "https://localhost:3000/logo" },
+{ "store": "S70 - BÌNH THỚI", "link": "https://localhost:3000/logo" },
+{ "store": "S93 - HOÀNG VIỆT", "link": "https://localhost:3000/logo" },
+{ "store": "S44 - TRỊNH ĐÌNH TRỌNG", "link": "https://localhost:3000/logo" },
+{ "store": "S97 - CAO THẮNG 2", "link": "https://localhost:3000/logo" },
+{ "store": "S79 - THÀNH THÁI", "link": "https://localhost:3000/logo" },
+{ "store": "CIRLCE K 6 QUANG TRUNG", "link": "https://localhost:3000/logo" },
+{ "store": "CIRLCE K 366 VÕ VĂN NGÂN", "link": "https://localhost:3000/logo" },
+{ "store": "CIRCLE  K 64 ĐÔNG DU", "link": "https://localhost:3000/logo" },
+{ "store": "CIRLCE K 2/2A TÂN MỸ", "link": "https://localhost:3000/logo" },
+{ "store": "CIRCLE  K 58 LỮ GIA", "link": "https://localhost:3000/logo" },
+{ "store": "DLEROI HỒ TÂY", "link": "https://localhost:3000/logo" },
+{ "store": "VAS HUẾ", "link": "https://localhost:3000/logo" },
+{ "store": "VAS VIỆT TRÌ", "link": "https://localhost:3000/logo" },
+{ "store": "VAS VINCOM ROYAL", "link": "https://localhost:3000/logo" },
+{ "store": "VAS HẠ LONG", "link": "https://localhost:3000/logo" },
+{ "store": "VAS - THÁI NGUYÊN", "link": "https://localhost:3000/logo" },
+{ "store": "VAS - VINCOM QUẢNG BÌNH", "link": "https://localhost:3000/logo" },
+{ "store": "VAS VINCOM THẢO ĐIỀN Q2", "link": "https://localhost:3000/logo" },
+{ "store": "VAS ĐỒNG THÁP", "link": "https://localhost:3000/logo" },
+{ "store": "VAS - BINH DƯƠNG", "link": "https://localhost:3000/logo" },
+{ "store": "VAS - LÊ TRỌNG TẤN", "link": "https://localhost:3000/logo" },
+{ "store": "VAS CẦU GIẤY", "link": "https://localhost:3000/logo" },
+{ "store": "VAS - HUỲNH TẤN PHÁT", "link": "https://localhost:3000/logo" },
+{ "store": "VAS TUYÊN QUANG", "link": "https://localhost:3000/logo" },
+{ "store": "VACARA CỐNG QUỲNH", "link": "https://localhost:3000/logo" },
+{ "store": "VAS - TRẦN DUY HƯNG", "link": "https://localhost:3000/logo" },
+{
+  "store": "KHAO LAO SU VAN HANH MALL (0145)",
+  "link": "https://localhost:3000/logo"
+},
+{ "store": "MEI WEI VẠN HẠNH MALL", "link": "https://localhost:3000/logo" },
+{
+  "store": "DOLPAN SAM PHAN XICH LONG (0079)",
+  "link": "https://localhost:3000/logo"
+},
+{ "store": "THÁI EXPRESS BIÊN HOÀ", "link": "https://localhost:3000/logo" },
+{ "store": "KHAO LAO VIVO CITY (0014)", "link": "https://localhost:3000/logo" },
+{
+  "store": "TASAKI BBQ CAO THẮNG",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/tasaki-bbq-cao-thang-47c0da3c636682142204271669.jpg"
+},
+{
+  "store": "TASAKI BBQ VINCOM QUANG TRUNG (0050)",
+  "link": "https://localhost:3000/logo"
+},
+{
+  "store": "KHAO LAO PEARL PLAZA (0116)",
+  "link": "https://localhost:3000/logo"
+},
+{
+  "store": "DOLPAN SAM SU VAN HANH MALL (0143)",
+  "link": "https://localhost:3000/logo"
+},
+{
+  "store": "KING ALACARTE VINCOM LE THANH TON (0049)",
+  "link": "https://localhost:3000/logo"
+},
+{
+  "store": "TASAKI BBQ PHAN XICH LONG (0129)",
+  "link": "https://localhost:3000/logo"
+},
+{
+  "store": "KING BBQ BUFFET LAPEN CENTER",
+  "link": "https://localhost:3000/logo"
+},
+{
+  "store": "TASAKI BBQ SU VAN HANH MALL (0147)",
+  "link": "https://localhost:3000/logo"
+},
+{ "store": "KHAO LAO VINCOM LANDMARK", "link": "https://localhost:3000/logo" },
+{
+  "store": "TASAKI BBQ LE VAN SY (0107)",
+  "link": "https://localhost:3000/logo"
+},
+{
+  "store": "KING ALACARTE NGUYEN TRI PHUONG (0078)",
+  "link": "https://localhost:3000/logo"
+},
+{ "store": "CAPRICCIOSA LANDMARK", "link": "https://localhost:3000/logo" },
+{ "store": "BUK BUK LE VAN SY (0004)", "link": "https://localhost:3000/logo" },
+{
+  "store": "KHAO LAO CRESCENT MALL QUAN 7 (0130)",
+  "link": "https://localhost:3000/logo"
+},
+{
+  "store": "MEIWEI SC VIVO CITY",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/meiwei-sc-vivo-city-c74ee09b636673357890713536.jpg"
+},
+{
+  "store": "KING ALACARTE SAIGON CENTER (0010)",
+  "link": "https://localhost:3000/logo"
+},
+{
+  "store": "HCM-587 NGUYỄN KIỆM",
+  "link": "http://cdn01.diadiemanuong.com//ddau/320x/diadiemanuong-com-chao-ech-singapored48d7a8f635827001092820406.jpg"
+},
+{
+  "store": "BDG-16A/1 ĐÔNG NHÌ LÁI THIÊU",
+  "link": "https://localhost:3000/logo"
+},
+{ "store": "ECOFFEE PHAN HUY ÍCH", "link": "https://localhost:3000/logo" },
+{
+  "store": "HCM-40 LÝ THƯỜNG KIỆT",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/son-quan-52dd76eb636325435255425218.jpg"
+},
+{
+  "store": "DNG-138 NGUYỄN THỊ MINH KHAI",
+  "link": "https://localhost:3000/logo"
+},
+{ "store": "HCM- 101 ĐINH TIÊN HOÀNG", "link": "https://localhost:3000/logo" },
+{
+  "store": "HCM-349 HAI BÀ TRƯNG",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/show-room-2-cua-hang-shopdonghocom-d784bf4b636670853915208448.jpg"
+},
+{ "store": "ECOFFEE TRẦN BÌNH TRỌNG", "link": "https://localhost:3000/logo" },
+{
+  "store": "E- COFFEE 444 TRẦN HƯNG ĐẠO",
+  "link": "https://localhost:3000/logo"
+},
+{
+  "store": "HCM-153 HÙNG VƯƠNG",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/cabin-deli-kafe-198dc4ff636354658839973756.jpg"
+},
+{
+  "store": "HCM-35 BÙI THỊ XUÂN",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/bun-bo-hien-fb06c0b2636228247136734046.jpg"
+},
+{
+  "store": "HCM-603 TRẦN HƯNG ĐẠO",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/zenchi-tarot-coffee-bdd7219c636518871905345063.jpg"
+},
+{ "store": "NHÀ SÁCH PN NGUYỄN OANH", "link": "https://localhost:3000/logo" },
+{
+  "store": "HCM-94 NGUYỄN THỊ MINH KHAI",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/tra-sua-lambro-nguyen-thi-minh-khai-2d5ec101636586036168341235.jpg"
+},
+{ "store": "HAN-08 NHÀ CHUNG", "link": "https://localhost:3000/logo" },
+{ "store": "ECOFFEE PHẠM NGŨ LÃO", "link": "https://localhost:3000/logo" },
+{
+  "store": "HCM-LE-807 TẠ QUANG BỬU",
+  "link": "http://cdn01.diadiemanuong.com//ddau/320x/quan-cafe-why-not-coffeetp-hcm-7a415609636405466871910197.jpg"
+},
+{ "store": "HCM-249 HOÀNG VẶN THỤ", "link": "https://localhost:3000/logo" },
+{ "store": "NHÀ SÁCH PN AEON MALL BD", "link": "https://localhost:3000/logo" },
+{ "store": "NHÀ SACH PHÚ THỌ STORE", "link": "https://localhost:3000/logo" },
+{ "store": "HAN-HOÀNG ĐẠO THÚY", "link": "https://localhost:3000/logo" },
+{ "store": "HCM-07 NGUYỄN VĂN CHIÊM", "link": "https://localhost:3000/logo" },
+{ "store": "HCM-264 NAM KỲ KHỚI NGHĨA", "link": "https://localhost:3000/logo" },
+{
+  "store": "CTO-1/3D ĐƯỜNG 30/04",
+  "link": "http://cdn05.diadiemanuong.com/photo/320x/00068/kem_tuoi_350_00a3c637635418927082484866.jpg"
+},
+{ "store": "HAN-03 NGÔ QUYỀN", "link": "https://localhost:3000/logo" },
+{
+  "store": "HCM-116 NGUYỄN DUY DƯƠNG CORNER",
+  "link": "https://localhost:3000/logo"
+},
+{
+  "store": "HCM-44 HOA HỒNG",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/wichita-tarot-cafe-acb7aeae636518855889814400.jpg"
+},
+{
+  "store": "HCM-69 LÝ TỰ TRỌNG",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/the-new-playground-762e7b0f636478124084299504.jpg"
+},
+{
+  "store": "HCM-06 TRƯỜNG SƠN",
+  "link": "http://cdn01.diadiemanuong.com//ddau/320x/banh-trang-nuongtp-hcm-b4fa79d9636286693771076128.jpg"
+},
+{
+  "store": "HCM- 12 ALEXANDRE DE RHODES",
+  "link": "https://localhost:3000/logo"
+},
+{
+  "store": "KHA-48 NGUYỄN BỈNH KHIÊM",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/cafe-restaurant-cccp-saigon-55597a25636414495529561905.jpg"
+},
+{ "store": "HAN-61TVV", "link": "https://localhost:3000/logo" },
+{ "store": "HCM - FSOFT KHU CNC Q9", "link": "https://localhost:3000/logo" },
+{
+  "store": "HCM-222 BÙI VIỆN",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/yellow-cab-pizza-co-f7e49f87636579262556132332.jpg"
+},
+{
+  "store": "HCM-THE BOTANICA PHỔ QUANG",
+  "link": "https://localhost:3000/logo"
+},
+{ "store": "KHA-148 VÕ TRỨ", "link": "https://localhost:3000/logo" },
+{ "store": "HCM-31-33 PHAN CHU TRINH", "link": "https://localhost:3000/logo" },
+{
+  "store": "HCM-133 NGUYỄN HUỆ",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/royaltea-flagship-store-tra-sua-dai-loan-nguyen-hue-6ab042d2636408309833464865.jpg"
+},
+{ "store": "HAN-05 LÝ QUỐC SƯ", "link": "https://localhost:3000/logo" },
+{
+  "store": "HCM-80 ĐỒNG KHỞI",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/h-72c63aac636498967211492201.jpg"
+},
+{ "store": "ECOFFEE  ẤP BẮC", "link": "https://localhost:3000/logo" },
+{
+  "store": "HAN-19 HUỲNH THÚC KHÁNG",
+  "link": "http://cdn05.diadiemanuong.com/photo/320x/00064/nha_hang_mon_hue__huynh_thuc_khang_d94073af635418903059164603.jpg"
+},
+{
+  "store": "HCM-LE-TTTM VẠN HẠNH MALL",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/baia-baia-viet-nam-van-hanh-mall-12c75584636537851002208071.jpg"
+},
+{
+  "store": "HCM-460 ĐIỆN BIÊN PHỦ",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/tabletop-boardgame-dcad497a636676126112389509.jpg"
+},
+{
+  "store": "HCM-219 LÝ TỰ TRỌNG",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/the-new-playground-762e7b0f636478124084299504.jpg"
+},
+{
+  "store": "HCM-272 XÔ VIẾT NGHỆ TĨNH",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/karaoke-icool-xo-viet-nghe-tinh-41e3d883636552529023430747.jpg"
+},
+{
+  "store": "HCM-66 LÊ LỢI",
+  "link": "http://cdn01.diadiemanuong.com//ddau/320x/banh-canh-cha-ca-thong-nhattp-hcm-2e821e82636587240952975976.jpg"
+},
+{
+  "store": "HCM-778-780 ĐIỆN BIÊN PHỦ",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/tabletop-boardgame-dcad497a636676126112389509.jpg"
+},
+{ "store": "HCM-683-685 ĐUỜNG 3/2", "link": "https://localhost:3000/logo" },
+{
+  "store": "HAN-52 HAI BÀ TRƯNG",
+  "link": "http://cdn05.diadiemanuong.com/photo/320x/00030/sinh_to_fresh_box_cf3b7f6e635416241578734294.jpg"
+},
+{ "store": "ECOFFEE  BÙI THỊ XUÂN", "link": "https://localhost:3000/logo" },
+{ "store": "HCM-644 NGUYỄN VĂN QUÁ", "link": "https://localhost:3000/logo" },
+{
+  "store": "HCM-184 LÊ ĐẠI HÀNH",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/effoc-le-dai-hanh-2929ff1c636408038148166543.jpg"
+},
+{
+  "store": "HCM-274 VÕ THỊ SÁU",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/teamet-6f5d7cfb636391902310943539.jpg"
+},
+{ "store": "ECOFFEE HÀNG TRỐNG", "link": "https://localhost:3000/logo" },
+{
+  "store": "HCM-25/88 NGUYỄN BỈNH KHIÊM",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/gb24-coffee-nguyen-binh-khiem-d500ac6d636988869988734835.jpg"
+},
+{ "store": "ECOFFEE CHỢ ĐỒNG XUÂN", "link": "https://localhost:3000/logo" },
+{ "store": "CTO-166 CÁCH MẠNH THÁNG 8", "link": "https://localhost:3000/logo" },
+{ "store": "HAN-26 HÀNG TRỐNG", "link": "https://localhost:3000/logo" },
+{
+  "store": "HAN-27-29 LÊ HỒNG PHONG",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/amor-cafe-888268b4636573172435283038.jpg"
+},
+{ "store": "HCM-LE-93NGUYENDU", "link": "https://localhost:3000/logo" },
+{
+  "store": "HCM-38 VÕ VĂN TẦN",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/the-coffee-house-vo-van-tan-4ea24958636524073515341464.jpg"
+},
+{ "store": "HAN-2 HÀNG BÀI", "link": "https://localhost:3000/logo" },
+{
+  "store": "HCM-270 BẠCH ĐẰNG",
+  "link": "http://cdn01.diadiemanuong.com//ddau/320x/an-vat-thuyy-thuyytp-hcm-8e00c495636119451553663279.jpg"
+},
+{
+  "store": "VINCOM CẦN THƠ",
+  "link": "http://cdn01.diadiemanuong.com/ddau/320x/diadiemanuong-com-king-bbq-vincom-can-thoc667f06d635735884400511124.jpg"
+},
+{ "store": "COOPFOOD LÊ VĂN CHÍ 69", "link": "https://localhost:3000/logo" },
+{ "store": "CF BẦU CÁT 302", "link": "https://localhost:3000/logo" })

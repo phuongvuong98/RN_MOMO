@@ -11,6 +11,7 @@ import {
 } from "react-native";
 import Constants from "expo-constants";
 import firebase from "firebase";
+import { node } from "prop-types";
 
 const PIC = Dimensions.get("window").width / 2;
 
@@ -79,7 +80,8 @@ export default class Auth extends Component {
       });
     this.setState({ loading: false });
       if(user){
-        this.props.navigation.navigate('Home')
+        
+        this.props.navigation.navigate('Home',  {email: this.state.email, pass: this.state.pass, status: 1})
       }
   };
 
