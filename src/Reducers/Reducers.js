@@ -29,8 +29,28 @@ const loadingReducer = (state = false, action) => {
   }
 };
 
+const locationReducer = (state = {}, action) => {
+  switch (action.type) {
+    case "SET_LOCATION":
+      return action.payload
+    default:
+      return state;
+  }
+}
+
+const merchantsReducer = (state = [], action) => {
+  switch (action.type) {
+    case "SET_MERCHANTS":
+      return action.payload
+    default:
+      return state
+  }
+}
+
 export default combineReducers({
   email: emailReducer,
   password: passwordReducer,
-  loading: loadingReducer
+  loading: loadingReducer,
+  location: locationReducer,
+  merchants: merchantsReducer
 });

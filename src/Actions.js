@@ -23,3 +23,17 @@ export const SetLoadingFalse = () => {
         type: "SET_LOADING_False",
     }
 }
+
+export const SetLocation = (newLocation) => {
+    return {
+        type: "SET_LOCATION",
+        payload: newLocation
+    }
+}
+
+export const SetMerchants = (newMerchants) => {
+    return {
+        type: "SET_MERCHANTS",
+        payload: newMerchants
+    }
+}

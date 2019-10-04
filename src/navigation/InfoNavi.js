@@ -11,14 +11,18 @@ export default createStackNavigator({
         screen: InfoScreen,
         navigationOptions: {
           title: "Thông tin chi tiết",
+          
+          
           headerStyle: {
             backgroundColor: "#AE2070"
           },
           headerTintColor: "#fff",
           headerTitleStyle: {
             fontWeight: "bold"
-          }
-        }
+          },
+          tabBarVisible: false
+        },
+        
     },
 },
 {

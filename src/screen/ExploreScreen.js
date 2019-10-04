@@ -7,13 +7,17 @@ import {
   TouchableOpacity,
   TextInput,
   FlatList,
-  ScrollView
+  ScrollView,
+  ActivityIndicator
 } from "react-native";
 import Constants from "expo-constants";
 //import Item from "../components/Item";
+import Item from "../components/Item";
 
+import { bindActionCreators } from "redux";
+import { connect } from "react-redux";
 
-export default class ExploreScreen extends Component {
+class ExploreScreen extends Component {
   static navigationOptions = {
     header: null
   };
@@ -22,7 +26,9 @@ export default class ExploreScreen extends Component {
     super(props);
     this.state = {
       input: "",
-      data: []
+      data: [],
+      display: [],
+      page: 1
     };
     //console.log(this.props);
   }
@@ -51,12 +57,10 @@ export default class ExploreScreen extends Component {
     //       return Error("Could not authenticate you!");
     //     }
     //     console.log(res);
-        
+
     //     res_json = await res.json();
-      
 
     // console.log(res_json);
-    
 
     //Fake data
     data = [
@@ -71,11 +75,44 @@ export default class ExploreScreen extends Component {
         distance: 0.1
       }
     ];
-    this.setState({ data });
+    this.setState({ data: this.props.merchants.page0 });
+    this.setState({ display: this.props.merchants.page0 });
+    //this.setState({data})
   }
 
+  search = input => {
+    this.setState({ input });
+    newMerchants = [...this.state.data];
+    //console.log(newMerchants[0].store_name.toLowerCase());
+    newMerchants = newMerchants.filter(m =>
+      m.store_name.toLowerCase().includes(input.toLowerCase())
+    );
+    //console.log(newMerchants);
+    this.setState({ display: newMerchants });
+  };
+
+  renderFooter = () => {
+    return <ActivityIndicator size="large" loading={loading} />;
+  };
+
+  getMoreMer = () => {
+    //console.log(this.props.merchants['page1']);
+    newPage = "page" + this.state.page.toString();
+    newMerchants = [...this.state.data, ...this.props.merchants[newPage]];
+
+    this.setState({ data: newMerchants });
+    this.setState({ display: newMerchants });
+  };
+
   Item = props => {
-    console.log(props);
+    //console.log(props);
+    const { link, store_name, store_address } = props.item;
+    pic = "";
+    if (link == "https://localhost:3000/logo") {
+      pic = require("../../assets/item/res.png");
+    } else {
+      pic = { uri: link };
+    }
     return (
       <TouchableOpacity
         style={{
@@ -83,18 +120,18 @@ export default class ExploreScreen extends Component {
           backgroundColor: "white",
           flex: 1,
           flexDirection: "row",
-          padding: 5,
-          marginTop: 10
+          padding: 10,
+          marginTop: 10,
+          borderRadius: 5
         }}
-        onPress={() => this.props.navigation.navigate("Info")}
+        onPress={() =>
+          this.props.navigation.navigate("Info", { item: props.item, pic: pic })
+        }
       >
-        <Image
-          style={{ height: 90, width: 90 }}
-          source={require("../../assets/item/res.png")}
-        />
+        <Image style={{ height: 90, width: 90 }} source={pic} />
         <View style={{ width: "100%", padding: 5 }}>
-          <Text style={{ fontSize: 20 }}>Domino's Pizza</Text>
-          <Text>Nhà hàng, pizza</Text>
+          <Text style={{ fontSize: 13 }}>{store_name}</Text>
+          {/* <Text>{merchant_name}</Text> */}
           <Text style={{ marginTop: 10 }}>0.1 km</Text>
         </View>
       </TouchableOpacity>
@@ -102,6 +139,9 @@ export default class ExploreScreen extends Component {
   };
 
   render() {
+    //console.log(this.props.location);
+    //console.log(this.props.merchants);
+
     return (
       <View style={styles.container}>
         <View
@@ -132,14 +172,14 @@ export default class ExploreScreen extends Component {
             >
               <TouchableOpacity
                 style={[styles.center, { height: 48, width: 48 }]}
-                onPress={() => {}}
+                onPress={this.props.navigation.openDrawer}
               >
                 <Image source={require("../../assets/home/menu.png")} />
               </TouchableOpacity>
 
               <View style={{ flex: 1, width: "100%" }}>
                 <TextInput
-                  onChangeText={input => this.setState({ input })}
+                  onChangeText={input => this.search(input)}
                   value={this.state.input}
                   placeholder="Tôi muốn tìm..."
                   style={{ flex: 1, width: "100%" }}
@@ -164,9 +204,12 @@ export default class ExploreScreen extends Component {
           }}
         >
           <FlatList
-            data={this.state.data}
+            data={this.state.display}
             keyExtractor={(i, index) => index.toString()}
             renderItem={this.Item}
+            onEndReached={this.getMoreMer}
+            onEndReachedThreshold={1}
+            ListFooterComponent={this.renderFooter}
           />
         </View>
       </View>
@@ -183,3 +226,9 @@ const styles = StyleSheet.create({
     alignItems: "center"
   }
 });
+
+mapStateToProps = state => {
+  return ({ location, merchants } = state);
+};
+
+export default connect(mapStateToProps)(ExploreScreen);

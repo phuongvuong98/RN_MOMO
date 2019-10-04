@@ -6,7 +6,14 @@ const SCREEN_WIDTH = Dimensions.get("window").width;
 
 const Card = props => {
   return (
-    <View style={styles.container}>
+    <View
+      style={{
+        flex: 1,
+        justifyContent: "center",
+        alignItems: "center",
+        padding: 10
+      }}
+    >
       <View
         style={{
           width: "40%",
@@ -16,13 +23,34 @@ const Card = props => {
           zIndex: 10,
           padding: 5,
           borderRadius: 5,
-          justifyContent: 'center',
-          alignItems: 'center'
+          justifyContent: "center",
+          alignItems: "center"
         }}
       >
-        <Text style={{color: 'white'}}>HI</Text>
+        <Text style={{ color: "white" }}>HI</Text>
       </View>
-      <View style={styles.card}>{props.children}</View>
+      <View
+        style={{
+          height: (SCREEN_WIDTH - 40) * 0.5,
+          width: SCREEN_WIDTH - 40,
+          backgroundColor: "#fff",
+          borderRadius: 40,
+          borderWidth: 0.5,
+          borderColor: "#dbd8ce",
+
+          shadowColor: "#000",
+          shadowOffset: {
+            width: 0,
+            height: 5
+          },
+          shadowOpacity: 0.34,
+          shadowRadius: 6.27,
+
+          elevation: 10
+        }}
+      >
+        {props.children}
+      </View>
     </View>
   );
 };

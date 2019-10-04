@@ -14,6 +14,8 @@ const App = () => {
         <Provider store={createStore(Reducers)}>
             <AppNavi/>
         </Provider>
+
+        
     )
 }
 export default App
