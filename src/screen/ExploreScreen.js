@@ -16,6 +16,7 @@ import Item from "../components/Item";
 
 import { bindActionCreators } from "redux";
 import { connect } from "react-redux";
+import dis from '../../distance'
 
 class ExploreScreen extends Component {
   static navigationOptions = {
@@ -84,29 +85,36 @@ class ExploreScreen extends Component {
     this.setState({ input });
     newMerchants = [...this.state.data];
     //console.log(newMerchants[0].store_name.toLowerCase());
-    newMerchants = newMerchants.filter(m =>
+    newMerchants_filter = newMerchants.filter(m =>
       m.store_name.toLowerCase().includes(input.toLowerCase())
     );
     //console.log(newMerchants);
-    this.setState({ display: newMerchants });
+    this.setState({ display: newMerchants_filter });
   };
 
   renderFooter = () => {
-    return <ActivityIndicator size="large" loading={loading} />;
+    if(this.state.input === ""){
+    return <ActivityIndicator size="large" loading={loading} style={{marginTop: 10}}/>;
+    } else{
+      return <View style={{width: '100%', marginTop: 10}}><Text>Hết rồi! Bạn muốn xem thêm thì làm trống search nhé ^^</Text></View>
+    }
   };
 
   getMoreMer = () => {
-    //console.log(this.props.merchants['page1']);
-    newPage = "page" + this.state.page.toString();
-    newMerchants = [...this.state.data, ...this.props.merchants[newPage]];
+    if (this.state.input === "") {
+      //console.log(this.props.merchants['page1']);
+      newPage = "page" + this.state.page.toString();
+      newMerchants = [...this.state.data, ...this.props.merchants[newPage]];
 
-    this.setState({ data: newMerchants });
-    this.setState({ display: newMerchants });
+      this.setState({ data: newMerchants });
+      this.setState({ display: newMerchants });
+    }
   };
 
   Item = props => {
     //console.log(props);
-    const { link, store_name, store_address } = props.item;
+    const { link, store_name, store_address, store_latitude, store_longitude } = props.item;
+    distance = dis(store_latitude, store_longitude, this.props.location.coords.latitude, this.props.location.coords.longitude)
     pic = "";
     if (link == "https://localhost:3000/logo") {
       pic = require("../../assets/item/res.png");
@@ -125,14 +133,14 @@ class ExploreScreen extends Component {
           borderRadius: 5
         }}
         onPress={() =>
-          this.props.navigation.navigate("Info", { item: props.item, pic: pic })
+          this.props.navigation.navigate("Info", { item: props.item, distance: distance })
         }
       >
         <Image style={{ height: 90, width: 90 }} source={pic} />
         <View style={{ width: "100%", padding: 5 }}>
           <Text style={{ fontSize: 13 }}>{store_name}</Text>
           {/* <Text>{merchant_name}</Text> */}
-          <Text style={{ marginTop: 10 }}>0.1 km</Text>
+          <Text style={{ marginTop: 10 }}>{Number((distance).toFixed(1))} km</Text>
         </View>
       </TouchableOpacity>
     );

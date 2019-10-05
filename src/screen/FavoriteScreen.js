@@ -10,12 +10,16 @@ import {
   ActivityIndicator
 } from "react-native";
 import Constants from "expo-constants";
+import {connect} from 'react-redux';
+import {bindActionCreators} from 'redux'
 
-import CardFullScreen from "../components/CardFullScreen";
+import {AddHistory, AddPoint} from '../Actions'
+
+import dis from '../../distance'
 
 const SCREEN_WIDTH = Dimensions.get("window").width;
 
-export default class FavoriteScreen extends Component {
+class FavoriteScreen extends Component {
   constructor(props) {
     super(props);
     this.state = {
@@ -50,7 +54,9 @@ export default class FavoriteScreen extends Component {
 
   Card = props => {
     //console.log(props);
-    const { link, store_name, store_address, tag } = props.item;
+    //console.log(props);
+    const { link, store_name, store_address, store_latitude, store_longitude, tag } = props.item;
+    distance = dis(store_latitude, store_longitude, this.props.location.coords.latitude, this.props.location.coords.longitude)
     pic = "";
     if (link == "https://localhost:3000/logo") {
       pic = require("../../assets/item/res.png");
@@ -81,10 +87,12 @@ export default class FavoriteScreen extends Component {
             padding: 5,
             borderRadius: 5,
             justifyContent: "center",
-            alignItems: "center"
+            alignItems: "center",
+
+            elevation: 11
           }}
         >
-          <Text style={{ color: "white" }}>{tag}</Text>
+          <Text style={{ color: "white" }}>{tag}  +{parseInt(distance)*3+1}💫</Text>
         </View>
         <View
           style={{
@@ -118,7 +126,7 @@ export default class FavoriteScreen extends Component {
             onPress={() =>
               this.props.navigation.navigate("Info", {
                 item: props.item,
-                pic: pic
+                distance: distance
               })
             }
           >
@@ -129,7 +137,7 @@ export default class FavoriteScreen extends Component {
             <View style={{ width: "100%", padding: 5 }}>
               <Text style={{ fontSize: 13 }}>{store_name}</Text>
               {/* <Text>{merchant_name}</Text> */}
-              <Text style={{ marginTop: 10 }}>0.1 km</Text>
+              <Text style={{ marginTop: 10 }}>{Number((distance).toFixed(1))} km</Text>
             </View>
           </TouchableOpacity>
         </View>
@@ -162,3 +170,13 @@ export default class FavoriteScreen extends Component {
     );
   }
 }
+
+mapStateToProps = (state) => {
+  return ({location} = state)
+}
+
+mapDispatchToProps = (dispatch) => {
+  return bindActionCreators({}, dispatch)
+}
+
+export default connect(mapStateToProps)(FavoriteScreen)

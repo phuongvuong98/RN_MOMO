@@ -37,3 +37,32 @@ export const SetMerchants = (newMerchants) => {
         payload: newMerchants
     }
 }
+
+export const SetHistory = (newHistory) => {
+    return {
+        type: "SET_HISTORY",
+        payload: newHistory
+    }
+}
+
+export const AddHistory = (newHistory) => {
+    return {
+        type: "ADD_HISTORY",
+        payload: newHistory
+    }
+}
+
+
+export const SetPoint = (newHistory) => {
+    return {
+        type: "SET_POINT",
+        payload: newHistory
+    }
+}
+
+export const AddPoint = (newHistory) => {
+    return {
+        type: "ADD_POINT",
+        payload: newHistory
+    }
+}

@@ -12,8 +12,11 @@ import {
   ActivityIndicator
 } from "react-native";
 import Constants from "expo-constants";
-import { connect } from "react-redux";
-import Item from "../components/Item";
+
+import {connect} from 'react-redux'
+
+import dis from '../../distance'
+
 
 const SCREEN_WIDTH = Dimensions.get("window").width;
 
@@ -31,39 +34,6 @@ class CateScreen extends Component {
     };
   }
 
-  Item = props => {
-    const { link, store_name, store_address } = props.item;
-    pic = "";
-    if (link == "https://localhost:3000/logo") {
-      pic = require("../../assets/item/res.png");
-    } else {
-      pic = { uri: link };
-    }
-    return (
-      <TouchableOpacity
-        style={{
-          width: SCREEN_WIDTH - 20,
-          backgroundColor: "white",
-          flex: 1,
-          flexDirection: "row",
-          padding: 10,
-          marginTop: 10,
-          borderRadius: 5
-        }}
-        onPress={() =>
-          this.props.navigation.navigate("Info", { item: props.item, pic: pic })
-        }
-      >
-        <Image style={{ height: 90, width: 90 }} source={pic} />
-        <View style={{ width: "100%", padding: 5 }}>
-          <Text style={{ fontSize: 15 }}>{store_name}</Text>
-          {/* <Text>{merchant_name}</Text> */}
-          <Text style={{ marginTop: 10 }}>0.1 km</Text>
-        </View>
-      </TouchableOpacity>
-    );
-  };
-
   ChangeCate = async newCate => {
     switch (newCate) {
       case "shop":
@@ -76,7 +46,7 @@ class CateScreen extends Component {
         this.setState({ header: "Ăn thoả thích", api_kind: "food" });
         break;
       case "bev":
-        this.setState({ header: "Uống giải khác", api_kind: "beverage" });
+        this.setState({ header: "Uống giải khát", api_kind: "beverage" });
         break;
       case "cvs":
         this.setState({ header: "Cửa hàng tiện lợi", api_kind: "cvs" });
@@ -105,15 +75,32 @@ class CateScreen extends Component {
 
     //console.log(res_json);
 
-    console.log(res_json);
-    this.setState({ display: res_json.result });
+    //console.log(res_json);
+    await this.setState({ display: res_json.result });
+
+    res = await fetch(
+      "https://limitless-chamber-64175.herokuapp.com/?all=0&user_id=" +
+        userID +
+        "&kind=" +
+        this.state.api_kind
+    );
+    //console.log(res);
+    //res_json = JSON.parse(res);
+    res_json = await res.json();
+
+    //console.log(res_json);
+
+    //console.log(res_json);
+    await this.setState({ display: res_json.result });
+
 
     this.setState({ loading: false });
   };
 
   Item = props => {
-    console.log(props);
-    const { link, store_name, store_address } = props.item;
+    //console.log(props);
+    const { link, store_name, store_address, store_latitude, store_longitude } = props.item;
+    distance = dis(store_latitude, store_longitude, this.props.location.coords.latitude, this.props.location.coords.longitude)
     pic = "";
     if (link == "https://localhost:3000/logo") {
       pic = require("../../assets/item/res.png");
@@ -132,14 +119,14 @@ class CateScreen extends Component {
           borderRadius: 5
         }}
         onPress={() =>
-          this.props.navigation.navigate("Info", { item: props.item, pic: pic })
+          this.props.navigation.navigate("Info", { item: props.item, distance: distance })
         }
       >
         <Image style={{ height: 90, width: 90 }} source={pic} />
         <View style={{ width: "100%", padding: 5 }}>
           <Text style={{ fontSize: 13 }}>{store_name}</Text>
           {/* <Text>{merchant_name}</Text> */}
-          <Text style={{ marginTop: 10 }}>0.1 km</Text>
+          <Text style={{ marginTop: 10 }}>{Number((distance).toFixed(1))} km</Text>
         </View>
       </TouchableOpacity>
     );
@@ -274,9 +261,9 @@ const styles = StyleSheet.create({
 });
 
 mapStateToProps = state => {
-  return ({ email } = state);
+  return ({ location } = state);
 };
 
 //export default connect(mapStateToProps)(CateScreen)
 
-export default CateScreen;
+export default connect(mapStateToProps)(CateScreen);

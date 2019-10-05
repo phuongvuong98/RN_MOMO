@@ -9,7 +9,8 @@ import {
   Image,
   ActivityIndicator,
   ImageBackground,
-  Platform
+  Platform,
+  AsyncStorage
 } from "react-native";
 import Constants from "expo-constants";
 import firebase from "firebase";
@@ -25,12 +26,16 @@ import {
   SetLoadingFalse,
   SetLoadingTrue,
   SetLocation,
-  SetMerchants
+  SetMerchants,
+  SetHistory,
+  SetPoint
 } from "../Actions";
 
 import { Fumi } from "react-native-textinput-effects";
 import Zocial from "react-native-vector-icons/Zocial";
 import Ionicons from "react-native-vector-icons/Ionicons";
+
+import dis from '../../distance'
 
 const PIC = Dimensions.get("window").width / 2;
 
@@ -41,34 +46,33 @@ class Auth extends Component {
 
   constructor(props) {
     super(props);
+    this.state = {
+      loading: false
+    }
   }
 
-  componentWillMount() {
-    // Initialize Firebase
-    // var firebaseConfig = {
-    //   apiKey: "AIzaSyAkPUsePZZi8P9wsVvm4LP8jAEnMr97yzc",
-    //   authDomain: "topfy-19758.firebaseapp.com",
-    //   databaseURL: "https://topfy-19758.firebaseio.com",
-    //   projectId: "topfy-19758",
-    //   storageBucket: "",
-    //   messagingSenderId: "106866858182",
-    //   appId: "1:106866858182:web:e870836a7ff4242b415fc7"
-    // };
-    // // Initialize Firebase
-    // firebase.initializeApp(firebaseConfig);
+  async componentWillMount() {
+    this.setState({loading: true})
 
-    // console.log('begin');
-    // users = require('../../push_firebase/data.json')
-    // //console.log(users);
-    // users.forEach(user => {
-    //   firebase.auth().createUserWithEmailAndPassword(user + '@gmail.com', 'macdinh')
-    // })
-    // console.log('done');\
+    first_history = await AsyncStorage.getItem('history')
+    first_point = await AsyncStorage.getItem('point')
 
-    //lazy login
-    //this.setState({email: '5246190437244883829@gmail.com', pass: 'macdinh'});
+    if(history != null){
+      //this.props.SetHistory(history)
+      this.props.SetHistory(JSON.parse(first_history))
+      //console.log(history);
+    }
+    if(point != null){
+      //this.props.SetPoint(point)
+      this.props.SetPoint(parseInt(first_point))
+      //console.log(point);
+    }
+
+
     this.props.ChangeEmail("8159657106479438377@gmail.com");
     this.props.ChangePassword("macdinh");
+
+    this.setState({loading: false})
   }
 
   _getLocationAsync = async () => {
@@ -126,6 +130,9 @@ class Auth extends Component {
       ChangePassword
     } = this.props;
     return (
+      this.state.loading ? 
+      <ActivityIndicator/>
+      :
       <ImageBackground
         style={{
           flex: 1,
@@ -182,7 +189,7 @@ class Auth extends Component {
             secureTextEntry
           /> */}
           <Fumi
-            label={"Nhập mật khuẩn"}
+            label={"Nhập mật khẩn"}
             iconClass={Ionicons}
             iconName={"ios-key"}
             iconColor={"#AE2070"}
@@ -198,7 +205,7 @@ class Auth extends Component {
         </View>
         <View style={styles.sections}>
           {loading ? (
-            <ActivityIndicator />
+            <ActivityIndicator size='large'/>
           ) : (
             <TouchableOpacity
               style={{
@@ -224,7 +231,7 @@ class Auth extends Component {
           style={[styles.sections, { paddingTop: 10 }]}
           onPress={() => this.props.navigation.navigate("Pass")}
         >
-          <Text style={{ fontStyle: "italic" }}>Quên mật khuẩn?</Text>
+          <Text style={{ fontStyle: "italic" }}>Quên mật khẩn?</Text>
         </TouchableOpacity>
       </ImageBackground>
     );
@@ -249,7 +256,7 @@ const styles = StyleSheet.create({
 });
 
 mapStateToProps = state => {
-  return ({ password, email, loading } = state);
+  return ({ password, email, loading, history, point } = state);
 };
 
 mapDispatchToProps = dispatch => {
@@ -260,7 +267,9 @@ mapDispatchToProps = dispatch => {
       SetLoadingFalse,
       SetLoadingTrue,
       SetLocation,
-      SetMerchants
+      SetMerchants,
+      SetHistory,
+      SetPoint
     },
     dispatch
   );
