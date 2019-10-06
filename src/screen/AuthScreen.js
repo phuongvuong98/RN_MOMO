@@ -35,7 +35,7 @@ import { Fumi } from "react-native-textinput-effects";
 import Zocial from "react-native-vector-icons/Zocial";
 import Ionicons from "react-native-vector-icons/Ionicons";
 
-import dis from '../../distance'
+import dis from "../../distance";
 
 const PIC = Dimensions.get("window").width / 2;
 
@@ -48,31 +48,31 @@ class Auth extends Component {
     super(props);
     this.state = {
       loading: false
-    }
+    };
   }
 
   async componentWillMount() {
-    this.setState({loading: true})
+    this.setState({ loading: true });
 
-    first_history = await AsyncStorage.getItem('history')
-    first_point = await AsyncStorage.getItem('point')
+    first_history = await AsyncStorage.getItem("history");
+    first_point = await AsyncStorage.getItem("point");
 
-    if(history != null){
+    if (first_history != null) {
       //this.props.SetHistory(history)
-      this.props.SetHistory(JSON.parse(first_history))
+      this.props.SetHistory(JSON.parse(first_history));
       //console.log(history);
     }
-    if(point != null){
+    if (first_history != null) {
       //this.props.SetPoint(point)
-      this.props.SetPoint(parseInt(first_point))
+      this.props.SetPoint(parseInt(first_point));
       //console.log(point);
     }
 
-
+    console.log(history);
     this.props.ChangeEmail("8159657106479438377@gmail.com");
     this.props.ChangePassword("macdinh");
 
-    this.setState({loading: false})
+    this.setState({ loading: false });
   }
 
   _getLocationAsync = async () => {
@@ -90,18 +90,17 @@ class Auth extends Component {
     this.props.SetLoadingTrue();
     //console.log(status);
 
-
     userID = email.slice(0, email.length - "@gmail.com".length);
     //console.log(userID);
     res = await fetch(
-      "https://limitless-chamber-64175.herokuapp.com/?all=1&kind=&user_id=" + userID
+      "https://limitless-chamber-64175.herokuapp.com/?all=1&kind=&user_id=" +
+        userID
     );
     //console.log(res);
     //res_json = JSON.parse(res);
     res_json = await res.json();
 
     //console.log(res_json);
-
 
     if (0) {
       alert("Không thể đăng nhập, kiểm tra lại email và password của bạn");
@@ -114,9 +113,9 @@ class Auth extends Component {
       } else {
         await this._getLocationAsync();
       }
-      
+
       this.props.SetLoadingFalse();
-      this.props.SetMerchants(res_json)
+      this.props.SetMerchants(res_json);
       this.props.navigation.navigate("Home");
     }
   };
@@ -129,10 +128,11 @@ class Auth extends Component {
       ChangeEmail,
       ChangePassword
     } = this.props;
-    return (
-      this.state.loading ? 
-      <ActivityIndicator/>
-      :
+    return this.state.loading ? (
+      <View style={{ flex: 1, justifyContent: "center", alignItems: "center" }}>
+        <ActivityIndicator size="large" />
+      </View>
+    ) : (
       <ImageBackground
         style={{
           flex: 1,
@@ -148,14 +148,14 @@ class Auth extends Component {
             height: PIC + 10,
             justifyContent: "center",
             alignItems: "center",
-            padding: 5,
+            padding: 5
           }}
         >
           <View>
             <Image
-              style={{ width: PIC , height: PIC  }}
+              style={{ width: PIC, height: PIC }}
               source={require("../../assets/logo.png")}
-              resizeMode='contain'
+              resizeMode="contain"
             />
           </View>
         </View>
@@ -189,7 +189,7 @@ class Auth extends Component {
             secureTextEntry
           /> */}
           <Fumi
-            label={"Nhập mật khẩn"}
+            label={"Nhập mật khẩu"}
             iconClass={Ionicons}
             iconName={"ios-key"}
             iconColor={"#AE2070"}
@@ -205,7 +205,7 @@ class Auth extends Component {
         </View>
         <View style={styles.sections}>
           {loading ? (
-            <ActivityIndicator size='large'/>
+            <ActivityIndicator size="large" />
           ) : (
             <TouchableOpacity
               style={{
@@ -227,12 +227,26 @@ class Auth extends Component {
             </TouchableOpacity>
           )}
         </View>
-        <TouchableOpacity
-          style={[styles.sections, { paddingTop: 10 }]}
-          onPress={() => this.props.navigation.navigate("Pass")}
+        <View
+          style={{
+            flexDirection: "row",
+            width: "100%",
+            justifyContent: 'space-between'
+          }}
         >
-          <Text style={{ fontStyle: "italic" }}>Quên mật khẩn?</Text>
-        </TouchableOpacity>
+          <TouchableOpacity
+            style={{ paddingTop: 10, marginLeft: 20 }}
+            onPress={() => alert('Chứ năng sẽ có sau ^^')}
+          >
+            <Text style={{ fontStyle: "italic" }}>Đăng ký</Text>
+          </TouchableOpacity>
+          <TouchableOpacity
+            style={{ paddingTop: 10, marginRight: 20 }}
+            onPress={() => alert('Chứ năng sẽ có sau ^^')}
+          >
+            <Text style={{ fontStyle: "italic" }}>Quên mật khẩn?</Text>
+          </TouchableOpacity>
+        </View>
       </ImageBackground>
     );
   }

@@ -79,7 +79,7 @@ class FavoriteScreen extends Component {
       >
         <View
           style={{
-            width: "60%",
+            width: "50%",
             position: "absolute",
             top: 0,
             backgroundColor: "rgb(174,32,112)",
@@ -92,7 +92,7 @@ class FavoriteScreen extends Component {
             elevation: 11
           }}
         >
-          <Text style={{ color: "white" }}>{tag}  +{parseInt(distance)*3+1}💫</Text>
+          <Text style={{ color: "white" }}>Đi bộ cùng Topfy +{parseInt(distance)*3+1}💫</Text>
         </View>
         <View
           style={{
@@ -137,7 +137,7 @@ class FavoriteScreen extends Component {
             <View style={{ width: "100%", padding: 5 }}>
               <Text style={{ fontSize: 13 }}>{store_name}</Text>
               {/* <Text>{merchant_name}</Text> */}
-              <Text style={{ marginTop: 10 }}>{Number((distance).toFixed(1))} km</Text>
+              <Text style={{ marginTop: 10 }}>{Number((distance).toFixed(1))} km ~ {Number((distance*1000/0.75).toFixed(0))} steps</Text>
             </View>
           </TouchableOpacity>
         </View>

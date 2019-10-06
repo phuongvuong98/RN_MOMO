@@ -7,7 +7,7 @@ import {
   TextInput,
   ActivityIndicator
 } from "react-native";
-import firebase from "firebase";
+// import firebase from "firebase";
 
 export default class Pass extends Component {
   constructor(props) {

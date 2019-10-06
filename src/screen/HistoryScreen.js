@@ -9,7 +9,6 @@ class HistoryScreen extends Component {
     //console.log(this.props.history);
   }
   render() {
-      console.log(this.props.history);
     return (
       <View style={{ flex: 1 }}>
         <View style={{ justifyContent: "center", alignItems: "center", marginTop: 20 }}>
@@ -21,7 +20,7 @@ class HistoryScreen extends Component {
                 this.props.history.length === 0 ? <Text style={{marginLeft: 15}}>Hãy mua sắm và chạy nhiều hơn để nhận nhiều điểm thưởng hơn nhé!</Text> :
                 <View style={{marginLeft: 15}}>
                 {
-                this.props.history.map((h, i) => {
+                  this.props.history.map((h, i) => {
                     return(
                         <Text key={i} style={{fontSize: 20}}>{h.store_name}: {h.point}💫</Text>
                     )

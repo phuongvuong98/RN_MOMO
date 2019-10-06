@@ -140,7 +140,7 @@ class ExploreScreen extends Component {
         <View style={{ width: "100%", padding: 5 }}>
           <Text style={{ fontSize: 13 }}>{store_name}</Text>
           {/* <Text>{merchant_name}</Text> */}
-          <Text style={{ marginTop: 10 }}>{Number((distance).toFixed(1))} km</Text>
+          <Text style={{ marginTop: 10 }}>{Number((distance).toFixed(1))} km ~ {Number((distance*1000/0.75).toFixed(0))} steps</Text>
         </View>
       </TouchableOpacity>
     );
